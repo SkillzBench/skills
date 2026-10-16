@@ -67,7 +67,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [dispatching-parallel-agents](./skills/dispatching-parallel-agents/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/dispatching-parallel-agents) |
 | [dmux-workflows](./skills/dmux-workflows/SKILL.md) | agents-meta | MIT | +0.00pp | [page](https://skillzbench.com/skills/dmux-workflows) |
 | [doc-maintenance](./skills/doc-maintenance/SKILL.md) | documents | MIT | +0.00pp | [page](https://skillzbench.com/skills/doc-maintenance) |
-| [documentation-and-adrs](./skills/documentation-and-adrs/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/documentation-and-adrs) |
+| [documentation-and-adrs](./skills/documentation-and-adrs/SKILL.md) | documents | MIT | +0.00pp | [page](https://skillzbench.com/skills/documentation-and-adrs) |
 | [documentation-lookup](./skills/documentation-lookup/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/documentation-lookup) |
 | [domain-modeling](./skills/domain-modeling/SKILL.md) | coding-testing | MIT | -14.29pp | [page](https://skillzbench.com/skills/domain-modeling) |
 | [doubt-driven-development](./skills/doubt-driven-development/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/doubt-driven-development) |
@@ -82,7 +82,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [fix-slow-queries](./skills/fix-slow-queries/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/fix-slow-queries) |
 | [frontend-patterns](./skills/frontend-patterns/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/frontend-patterns) |
 | [frontend-slides](./skills/frontend-slides/SKILL.md) | web-design-frontend | MIT | -14.29pp | [page](https://skillzbench.com/skills/frontend-slides) |
-| [frontend-ui-engineering](./skills/frontend-ui-engineering/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/frontend-ui-engineering) |
+| [frontend-ui-engineering](./skills/frontend-ui-engineering/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/frontend-ui-engineering) |
 | [full-output-enforcement](./skills/full-output-enforcement/SKILL.md) | agents-meta | MIT | -12.50pp | [page](https://skillzbench.com/skills/full-output-enforcement) |
 | [git-workflow-and-versioning](./skills/git-workflow-and-versioning/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/git-workflow-and-versioning) |
 | [gsap-core](./skills/gsap-core/SKILL.md) | web-design-frontend | MIT | +25.00pp | [page](https://skillzbench.com/skills/gsap-core) |
@@ -166,7 +166,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [teach](./skills/teach/SKILL.md) | education-learning | MIT | — | [page](https://skillzbench.com/skills/teach) |
 | [terminal-bench-loop](./skills/terminal-bench-loop/SKILL.md) | coding-testing | MIT | +25.00pp | [page](https://skillzbench.com/skills/terminal-bench-loop) |
 | [test-audit](./skills/test-audit/SKILL.md) | coding-testing | MIT | +25.00pp | [page](https://skillzbench.com/skills/test-audit) |
-| [test-driven-development](./skills/test-driven-development/SKILL.md) | coding-testing | MIT | +7.50pp | [page](https://skillzbench.com/skills/test-driven-development) |
+| [test-driven-development](./skills/test-driven-development/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/test-driven-development) |
 | [test-driven-development-d9125f](./skills/test-driven-development-d9125f/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/test-driven-development-d9125f) |
 | [to-questionnaire](./skills/to-questionnaire/SKILL.md) | writing-content | MIT | -25.00pp | [page](https://skillzbench.com/skills/to-questionnaire) |
 | [to-spec](./skills/to-spec/SKILL.md) | coding-testing | MIT | -37.50pp | [page](https://skillzbench.com/skills/to-spec) |
@@ -181,7 +181,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [using-agent-skills](./skills/using-agent-skills/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/using-agent-skills) |
 | [using-git-worktrees](./skills/using-git-worktrees/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/using-git-worktrees) |
 | [using-superpowers](./skills/using-superpowers/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/using-superpowers) |
-| [verification-before-completion](./skills/verification-before-completion/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/verification-before-completion) |
+| [verification-before-completion](./skills/verification-before-completion/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/verification-before-completion) |
 | [viral-captions-and-ctas](./skills/viral-captions-and-ctas/SKILL.md) | writing-content | LicenseRef-AIQ-Labs-Seed | — | [page](https://skillzbench.com/skills/viral-captions-and-ctas) |
 | [viral-hooks](./skills/viral-hooks/SKILL.md) | video-motion | LicenseRef-AIQ-Labs-Seed | — | [page](https://skillzbench.com/skills/viral-hooks) |
 | [viral-instagram-reels](./skills/viral-instagram-reels/SKILL.md) | marketing-seo | LicenseRef-AIQ-Labs-Seed | — | [page](https://skillzbench.com/skills/viral-instagram-reels) |
