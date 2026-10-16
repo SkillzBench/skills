@@ -1,0 +1,7 @@
+# design-guide
+
+[![SkillzBench](https://skillzbench.com/api/badge/design-guide)](https://skillzbench.com/skills/design-guide)
+
+Paperclip UI design system guide for building consistent, reusable frontend components. Use when creating new UI components, modifying existing ones, adding pages or features to the frontend, styling UI elements, or when you need to understand the design language and conventions. Covers: component creation, design tokens, typography, status/priority systems, composition patterns, and the /design-guide showcase page. Always use this skill alongside the frontend-design skill (for visual quality) and the web-design-guidelines skill (for web best practices).
+
+Mirrored from [skillzbench.com/skills/design-guide](https://skillzbench.com/skills/design-guide) — Trust Score, benchmarks and install options live there.
