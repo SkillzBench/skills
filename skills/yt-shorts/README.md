@@ -1,0 +1,7 @@
+# yt-shorts
+
+[![SkillzBench](https://skillzbench.com/api/badge/yt-shorts)](https://skillzbench.com/skills/yt-shorts)
+
+Find the Shorts hiding inside a long video and write them, using the transcript to pick self-contained moments. Use for "cut this into shorts", "clip this", "repurpose this video", "what should I clip".
+
+Mirrored from [skillzbench.com/skills/yt-shorts](https://skillzbench.com/skills/yt-shorts) — Trust Score, benchmarks and install options live there.
