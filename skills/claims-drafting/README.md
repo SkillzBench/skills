@@ -1,0 +1,7 @@
+# claims-drafting
+
+[![SkillzBench](https://skillzbench.com/api/badge/claims-drafting)](https://skillzbench.com/skills/claims-drafting)
+
+"Draft patent claims for an invention. Use when user says \"撰写权利要求\", \"draft claims\", \"写权利要求书\", \"claim drafting\", or wants to create patent claims. The core skill of the patent pipeline."
+
+Mirrored from [skillzbench.com/skills/claims-drafting](https://skillzbench.com/skills/claims-drafting) — Trust Score, benchmarks and install options live there.
