@@ -1,7 +1,7 @@
 
 # career-ops -- Router
 
-career-ops is a multi-CLI job-search command center. The routing below is shared across supported agent CLIs even when the invocation surface differs.
+career-ops is a multi-CLI AI job search agent. The routing below is shared across supported agent CLIs even when the invocation surface differs.
 
 ## Project Root Resolution
 
@@ -130,7 +130,7 @@ Concrete equivalents for Codex prompt-driven sessions:
 Show this menu:
 
 ```
-career-ops -- Command Center
+career-ops -- AI Job Search Agent
 
 Available commands:
   /career-ops {JD}      → AUTO-PIPELINE: evaluate + report + PDF + tracker (paste text or URL)
