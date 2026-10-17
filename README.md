@@ -107,7 +107,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [improve-codebase-architecture](./skills/improve-codebase-architecture/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/improve-codebase-architecture) |
 | [incremental-implementation](./skills/incremental-implementation/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/incremental-implementation) |
 | [industrial-brutalist-ui](./skills/industrial-brutalist-ui/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/industrial-brutalist-ui) |
-| [interview-me](./skills/interview-me/SKILL.md) | career-resume | MIT | +65.00pp | [page](https://skillzbench.com/skills/interview-me) |
+| [interview-me](./skills/interview-me/SKILL.md) | research-analysis | MIT | +65.00pp | [page](https://skillzbench.com/skills/interview-me) |
 | [investor-materials](./skills/investor-materials/SKILL.md) | documents | MIT | +0.00pp | [page](https://skillzbench.com/skills/investor-materials) |
 | [investor-outreach](./skills/investor-outreach/SKILL.md) | sales-crm | MIT | — | [page](https://skillzbench.com/skills/investor-outreach) |
 | [maintain-storybook](./skills/maintain-storybook/SKILL.md) | web-design-frontend | MIT | +25.00pp | [page](https://skillzbench.com/skills/maintain-storybook) |
