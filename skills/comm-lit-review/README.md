@@ -1,0 +1,7 @@
+# comm-lit-review
+
+[![SkillzBench](https://skillzbench.com/api/badge/comm-lit-review)](https://skillzbench.com/skills/comm-lit-review)
+
+"Communications-domain literature review with Claude-style knowledge-base-first retrieval. Use when the task is about communications, wireless, networking, satellite/NTN, Wi-Fi, cellular, transport protocols, congestion control, routing, scheduling, MAC/PHY, rate adaptation, channel estimation, beamforming, or communication-system research and the user wants papers, related work, a survey, or a landscape summary."
+
+Mirrored from [skillzbench.com/skills/comm-lit-review](https://skillzbench.com/skills/comm-lit-review) — Trust Score, benchmarks and install options live there.
