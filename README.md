@@ -65,7 +65,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [citation-audit](./skills/citation-audit/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/citation-audit) |
 | [claims-drafting](./skills/claims-drafting/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/claims-drafting) |
 | [claude-handoff](./skills/claude-handoff/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/claude-handoff) |
-| [codebase-design](./skills/codebase-design/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/codebase-design) |
+| [codebase-design](./skills/codebase-design/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/codebase-design) |
 | [code-review](./skills/code-review/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/code-review) |
 | [code-review-and-quality](./skills/code-review-and-quality/SKILL.md) | coding-testing | MIT | -12.50pp | [page](https://skillzbench.com/skills/code-review-and-quality) |
 | [code-simplification](./skills/code-simplification/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/code-simplification) |
@@ -123,7 +123,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [eval-harness](./skills/eval-harness/SKILL.md) | coding-testing | MIT | +25.00pp | [page](https://skillzbench.com/skills/eval-harness) |
 | [events](./skills/events/SKILL.md) | marketing-seo | MIT | — | [page](https://skillzbench.com/skills/events) |
 | [exa-search](./skills/exa-search/SKILL.md) | research-analysis | MIT | +0.00pp | [page](https://skillzbench.com/skills/exa-search) |
-| [executing-plans](./skills/executing-plans/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/executing-plans) |
+| [executing-plans](./skills/executing-plans/SKILL.md) | productivity-automation | MIT | -14.58pp | [page](https://skillzbench.com/skills/executing-plans) |
 | [experiment-plan](./skills/experiment-plan/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/experiment-plan) |
 | [fal-ai-media](./skills/fal-ai-media/SKILL.md) | video-motion | MIT | — | [page](https://skillzbench.com/skills/fal-ai-media) |
 | [feishu-notify](./skills/feishu-notify/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/feishu-notify) |
@@ -169,7 +169,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [imagegen-frontend-mobile](./skills/imagegen-frontend-mobile/SKILL.md) | images-graphics | MIT | +35.00pp | [page](https://skillzbench.com/skills/imagegen-frontend-mobile) |
 | [imagegen-frontend-web](./skills/imagegen-frontend-web/SKILL.md) | images-graphics | MIT | — | [page](https://skillzbench.com/skills/imagegen-frontend-web) |
 | [image-to-code](./skills/image-to-code/SKILL.md) | web-design-frontend | MIT | +12.50pp | [page](https://skillzbench.com/skills/image-to-code) |
-| [improve-codebase-architecture](./skills/improve-codebase-architecture/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/improve-codebase-architecture) |
+| [improve-codebase-architecture](./skills/improve-codebase-architecture/SKILL.md) | coding-testing | MIT | -12.50pp | [page](https://skillzbench.com/skills/improve-codebase-architecture) |
 | [incremental-implementation](./skills/incremental-implementation/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/incremental-implementation) |
 | [industrial-brutalist-ui](./skills/industrial-brutalist-ui/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/industrial-brutalist-ui) |
 | [interview-me](./skills/interview-me/SKILL.md) | research-analysis | MIT | +65.00pp | [page](https://skillzbench.com/skills/interview-me) |
@@ -283,8 +283,8 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [test-audit](./skills/test-audit/SKILL.md) | coding-testing | MIT | +25.00pp | [page](https://skillzbench.com/skills/test-audit) |
 | [test-driven-development](./skills/test-driven-development/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/test-driven-development) |
 | [test-driven-development-d9125f](./skills/test-driven-development-d9125f/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/test-driven-development-d9125f) |
-| [to-questionnaire](./skills/to-questionnaire/SKILL.md) | writing-content | MIT | -25.00pp | [page](https://skillzbench.com/skills/to-questionnaire) |
-| [to-spec](./skills/to-spec/SKILL.md) | coding-testing | MIT | -60.00pp | [page](https://skillzbench.com/skills/to-spec) |
+| [to-questionnaire](./skills/to-questionnaire/SKILL.md) | writing-content | MIT | -12.50pp | [page](https://skillzbench.com/skills/to-questionnaire) |
+| [to-spec](./skills/to-spec/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/to-spec) |
 | [to-tickets](./skills/to-tickets/SKILL.md) | productivity-automation | MIT | +12.50pp | [page](https://skillzbench.com/skills/to-tickets) |
 | [triage](./skills/triage/SKILL.md) | coding-testing | MIT | +20.00pp | [page](https://skillzbench.com/skills/triage) |
 | [understand-chat](./skills/understand-chat/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/understand-chat) |
@@ -310,10 +310,10 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [work-unit-commits](./skills/work-unit-commits/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/work-unit-commits) |
 | [work-unit-commits-b1ff95](./skills/work-unit-commits-b1ff95/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/work-unit-commits-b1ff95) |
 | [writing-beats](./skills/writing-beats/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/writing-beats) |
-| [writing-for-agents](./skills/writing-for-agents/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/writing-for-agents) |
+| [writing-for-agents](./skills/writing-for-agents/SKILL.md) | writing-content | MIT | -12.50pp | [page](https://skillzbench.com/skills/writing-for-agents) |
 | [writing-fragments](./skills/writing-fragments/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/writing-fragments) |
 | [writing-plans](./skills/writing-plans/SKILL.md) | coding-testing | MIT | -25.00pp | [page](https://skillzbench.com/skills/writing-plans) |
-| [writing-shape](./skills/writing-shape/SKILL.md) | writing-content | MIT | -62.50pp | [page](https://skillzbench.com/skills/writing-shape) |
+| [writing-shape](./skills/writing-shape/SKILL.md) | writing-content | MIT | -12.50pp | [page](https://skillzbench.com/skills/writing-shape) |
 | [yt-audit](./skills/yt-audit/SKILL.md) | marketing-seo | LicenseRef-AIQ-Labs-Seed | +12.50pp | [page](https://skillzbench.com/skills/yt-audit) |
 | [yt-comment](./skills/yt-comment/SKILL.md) | writing-content | LicenseRef-AIQ-Labs-Seed | -12.50pp | [page](https://skillzbench.com/skills/yt-comment) |
 | [yt-plan](./skills/yt-plan/SKILL.md) | writing-content | LicenseRef-AIQ-Labs-Seed | -10.00pp | [page](https://skillzbench.com/skills/yt-plan) |
