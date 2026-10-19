@@ -1,6 +1,17 @@
 
 # Lean Formalize
 
+> **Before each reviewer slot**, follow [Selectable Reviewers](../shared-references/reviewer-backends.md):
+> resolve invocation → `.aris/reviewer.json` → Claude Code default (Codex MCP)
+> with `reviewer_route.py` through the canonical helper resolver, preserving this
+> slot's tier, fresh contexts, source/image inputs and deterministic gates.
+> Codex examples/pins below apply only to `backend=codex`; other routes use their
+> own first-call/reply contract. Save the route and actual returned identity;
+> unavailable selections are `REVIEW_UNAVAILABLE`. Classify acceptance from actual
+> families/completion/scope. Forward invocation reviewer/model/effort overrides
+> to reviewer-bearing children. Generation workers are unchanged.
+
+
 Turn the user's mathematical statement into a checked Lean theorem with its
 meaning preserved. A compiled conditional lemma is progress; completion concerns
 the original statement and the trust basis actually used.
@@ -256,7 +267,9 @@ contexts for A and C; B repair checks may continue the reviewer that found the
 issue. Verify the executor/reviewer families rather than assuming that every
 host running this mainline skill is Claude.
 
-Honor an explicitly selected authorized reviewer. Direct Claude, Grok and Gemini
+For every A/B/C checkpoint, resolve the selected route through
+[Selectable Reviewers](../shared-references/reviewer-backends.md). Honor explicit
+family requirements and leave unmet checkpoints pending. Direct Claude, Grok and Gemini
 transports have different file-access and continuation contracts; read
 [review transport notes](references/adversarial-review.md#review-transport-and-source-access)
 when using them. These Lean consultations do not change another skill's reviewer
