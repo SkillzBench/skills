@@ -1,6 +1,17 @@
 
 # Meta-Optimize: Outer-Loop Harness Optimization for ARIS
 
+> **Before each reviewer slot**, follow [Selectable Reviewers](../shared-references/reviewer-backends.md):
+> resolve invocation → `.aris/reviewer.json` → Claude Code default (Codex MCP)
+> with `reviewer_route.py` through the canonical helper resolver, preserving this
+> slot's tier, fresh contexts, source/image inputs and deterministic gates.
+> Codex examples/pins below apply only to `backend=codex`; other routes use their
+> own first-call/reply contract. Save the route and actual returned identity;
+> unavailable selections are `REVIEW_UNAVAILABLE`. Classify acceptance from actual
+> families/completion/scope. Forward invocation reviewer/model/effort overrides
+> to reviewer-bearing children. Generation workers are unchanged.
+
+
 Analyze accumulated usage logs and propose optimizations for: **$ARGUMENTS**
 
 ## Privilege boundary — this skill is a READ-ONLY PRODUCER
@@ -254,6 +265,8 @@ For each optimization target, generate a concrete diff:
 > `advisory_screen` only.
 
 Send each patch to GPT-6-Astra xhigh for adversarial review:
+
+> Resolve this reviewer slot first; the following is the `backend=codex` example.
 
 ```
 mcp__codex__codex:
