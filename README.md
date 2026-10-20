@@ -202,7 +202,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [fraimz](./skills/fraimz/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/fraimz) |
 | [frida](./skills/frida/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/frida) |
 | [frontend-patterns](./skills/frontend-patterns/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/frontend-patterns) |
-| [frontend-slides](./skills/frontend-slides/SKILL.md) | web-design-frontend | MIT | -14.29pp | [page](https://skillzbench.com/skills/frontend-slides) |
+| [frontend-slides](./skills/frontend-slides/SKILL.md) | web-design-frontend | MIT | -12.50pp | [page](https://skillzbench.com/skills/frontend-slides) |
 | [frontend-ui-engineering](./skills/frontend-ui-engineering/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/frontend-ui-engineering) |
 | [full-output-enforcement](./skills/full-output-enforcement/SKILL.md) | agents-meta | MIT | -12.50pp | [page](https://skillzbench.com/skills/full-output-enforcement) |
 | [gemini-search](./skills/gemini-search/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/gemini-search) |
