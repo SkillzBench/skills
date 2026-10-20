@@ -389,6 +389,7 @@ Keep the plan actionable. Every item should be something the user can do today.
 - **programmatic-seo** — destination pages (alternatives, integrations, templates) that backlinks should flow into
 - **competitors** — `/alternatives/[tool]` page pattern
 - **ai-seo** — GEO optimization for AI citation
+- **link-building** — the rest of the link program once the directory foundation is in place
 - **content-strategy** — editorial content that attracts "best of" listicle inclusions
 - **free-tools** — lead magnets for destination pages
 - **community-marketing** — Reddit, Indie Hackers, Slack community mechanics
