@@ -1,0 +1,7 @@
+# golang-dependency-management
+
+[![SkillzBench](https://skillzbench.com/api/badge/golang-dependency-management)](https://skillzbench.com/skills/golang-dependency-management)
+
+"Dependency management for Golang projects — go.mod and go.sum, `go get` install and upgrade flows, Minimal Version Selection, conflict resolution with replace/exclude/retract, `govulncheck` scanning of the module tree, outdated dependency and binary size auditing, vendoring, `tool` directives, and go.work workspaces. Use when adding, removing, or upgrading Go dependencies, deciding whether to take on a package, resolving version conflicts, or auditing what a module pulls in. Covers choosing and upgrading dependency versions, not the surrounding tooling: do NOT use for fixing an exploitable vulnerability in code (→ See `samber/cc-skills-golang@golang-security` skill) or for wiring Dependabot/Renovate update bots into CI workflows (→ See `samber/cc-skills-golang@golang-continuous-integration` skill)."
+
+Mirrored from [skillzbench.com/skills/golang-dependency-management](https://skillzbench.com/skills/golang-dependency-management) — Trust Score, benchmarks and install options live there.
