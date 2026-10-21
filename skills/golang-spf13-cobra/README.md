@@ -1,0 +1,7 @@
+# golang-spf13-cobra
+
+[![SkillzBench](https://skillzbench.com/api/badge/golang-spf13-cobra)](https://skillzbench.com/skills/golang-spf13-cobra)
+
+"Golang CLI command tree library using spf13/cobra — cobra.Command, RunE vs Run, PersistentPreRunE hook chain, Args validators (NoArgs, ExactArgs, MatchAll, custom), persistent vs local flags, command groups, ValidArgsFunction, RegisterFlagCompletionFunc, ShellCompDirective, usage/help template customization, man-page and markdown doc generation, and testing with SetArgs/SetOut/SetErr. Apply when using or adopting spf13/cobra, or when the codebase imports `github.com/spf13/cobra`. For configuration layering alongside cobra, see the `samber/cc-skills-golang@golang-spf13-viper` skill. For general CLI architecture (project layout, exit codes, signal handling, I/O patterns), see `samber/cc-skills-golang@golang-cli`."
+
+Mirrored from [skillzbench.com/skills/golang-spf13-cobra](https://skillzbench.com/skills/golang-spf13-cobra) — Trust Score, benchmarks and install options live there.
