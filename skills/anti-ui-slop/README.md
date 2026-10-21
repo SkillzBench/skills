@@ -1,0 +1,7 @@
+# anti-ui-slop
+
+[![SkillzBench](https://skillzbench.com/api/badge/anti-ui-slop)](https://skillzbench.com/skills/anti-ui-slop)
+
+Stop coding agents from shipping generic UI. Use UIZZE's 800,000+ real web and iOS screens to build product-specific interfaces, define a design contract, cover required states, and run a hard finish gate. Use for web or iOS UI design, implementation, redesign, critique, and pre-ship review in Codex, Claude Code, Cursor, Copilot, and other coding agents.
+
+Mirrored from [skillzbench.com/skills/anti-ui-slop](https://skillzbench.com/skills/anti-ui-slop) — Trust Score, benchmarks and install options live there.
