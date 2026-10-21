@@ -107,7 +107,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [comm-lit-review](./skills/comm-lit-review/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/comm-lit-review) |
 | [company-creator](./skills/company-creator/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/company-creator) |
 | [competitive-platform-analysis](./skills/competitive-platform-analysis/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/competitive-platform-analysis) |
-| [competitive-report-structure](./skills/competitive-report-structure/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/competitive-report-structure) |
+| [competitive-report-structure](./skills/competitive-report-structure/SKILL.md) | research-analysis | MIT | -12.50pp | [page](https://skillzbench.com/skills/competitive-report-structure) |
 | [competitor-profiling](./skills/competitor-profiling/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/competitor-profiling) |
 | [competitors](./skills/competitors/SKILL.md) | marketing-seo | MIT | — | [page](https://skillzbench.com/skills/competitors) |
 | [component](./skills/component/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/component) |
