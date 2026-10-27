@@ -1,5 +1,5 @@
 
-# career-ops -- Router
+# career-ops: open-source AI job search agent
 
 career-ops is a multi-CLI AI job search agent. The routing below is shared across supported agent CLIs even when the invocation surface differs.
 
