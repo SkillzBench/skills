@@ -1,0 +1,7 @@
+# golang-samber-slog
+
+[![SkillzBench](https://skillzbench.com/api/badge/golang-samber-slog)](https://skillzbench.com/skills/golang-samber-slog)
+
+"Structured logging extensions for Golang using samber/slog-**** packages — multi-handler pipelines (slog-multi), log sampling (slog-sampling), attribute formatting (slog-formatter), HTTP middleware (slog-fiber, slog-gin, slog-chi, slog-echo), and backend routing (slog-datadog, slog-sentry, slog-loki, slog-syslog, slog-logstash, slog-graylog...). Apply when using or adopting slog, or when the codebase already imports any github.com/samber/slog-* package."
+
+Mirrored from [skillzbench.com/skills/golang-samber-slog](https://skillzbench.com/skills/golang-samber-slog) — Trust Score, benchmarks and install options live there.
