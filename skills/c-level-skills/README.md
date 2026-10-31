@@ -2,6 +2,6 @@
 
 [![SkillzBench](https://skillzbench.com/api/badge/c-level-skills)](https://skillzbench.com/skills/c-level-skills)
 
-"Index and router for the C-level advisory bundle: 33 skills covering 14 C-suite roles, orchestration, cross-cutting capabilities, and culture. Use when exploring what the c-level-advisor bundle contains, deciding which advisor skill fits a question, or finding the entry points (cs-onboard interview, chief-of-staff routing, board-meeting protocol)."
+"Use when looking for which C-level advisor skill fits a question (14 C-suite roles, board meetings, culture, M&A). Lists them and routes to one."
 
 Mirrored from [skillzbench.com/skills/c-level-skills](https://skillzbench.com/skills/c-level-skills) — Trust Score, benchmarks and install options live there.
