@@ -1,7 +1,7 @@
 
-# /em:postmortem — Honest Analysis of What Went Wrong
+# /executive-mentor:postmortem — Honest Analysis of What Went Wrong
 
-**Command:** `/em:postmortem <event>`
+**Command:** `/executive-mentor:postmortem <event>`
 
 Not blame. Understanding. The failed deal, the missed quarter, the feature that flopped, the hire that didn't work out. What actually happened, why, and what changes as a result.
 
