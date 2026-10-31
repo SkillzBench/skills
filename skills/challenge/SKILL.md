@@ -1,7 +1,7 @@
 
-# /em:challenge — Pre-Mortem Plan Analysis
+# /executive-mentor:challenge — Pre-Mortem Plan Analysis
 
-**Command:** `/em:challenge <plan>`
+**Command:** `/executive-mentor:challenge <plan>`
 
 Systematically finds weaknesses in any plan before reality does. Not to kill the plan — to make it survive contact with reality.
 
@@ -172,6 +172,6 @@ These are the ones people skip:
 
 ## Deliverable
 
-The output of `/em:challenge` is not permission to stop. It's a vulnerability map. Now you can make conscious decisions: validate the risky assumptions, hedge the critical ones, or accept the bets you're making knowingly.
+The output of `/executive-mentor:challenge` is not permission to stop. It's a vulnerability map. Now you can make conscious decisions: validate the risky assumptions, hedge the critical ones, or accept the bets you're making knowingly.
 
 Unknown risks are dangerous. Known risks are manageable.
