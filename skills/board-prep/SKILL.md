@@ -1,7 +1,7 @@
 
-# /em:board-prep — Board Meeting Preparation
+# /executive-mentor:board-prep — Board Meeting Preparation
 
-**Command:** `/em:board-prep <agenda>`
+**Command:** `/executive-mentor:board-prep <agenda>`
 
 Prepare for the adversarial version of your board, not the friendly one. Every hard question they'll ask. Every number you need cold. The narrative that acknowledges weakness without losing the room.
 
