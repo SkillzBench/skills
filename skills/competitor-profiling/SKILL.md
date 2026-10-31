@@ -424,6 +424,7 @@ Only ask if not answered by context or input:
 ## Related Skills
 
 - **competitors**: For creating comparison/alternative pages from these profiles
+- **reverse-engineer-marketing**: For a dated teardown of how a competitor grew, which moves lined up with growth, and plays to copy
 - **prospecting**: For broader list-building qualification (this skill does deep research on specific accounts; prospecting builds the initial list)
 - **customer-research**: For mining reviews and community sentiment in depth
 - **content-strategy**: For using competitor content gaps to plan your own content
