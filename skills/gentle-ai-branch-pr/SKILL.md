@@ -3,10 +3,12 @@
 
 ## When to Use
 
-Load this skill whenever you need to:
-- Create a branch for a new fix or feature
-- Open a pull request on [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai)
-- Prepare changes for review
+Load this repository-specific skill only for contributions whose PR base is [Gentleman-Programming/gentle-ai](https://github.com/Gentleman-Programming/gentle-ai), including contributions from forks:
+- Create a branch for a Gentle AI fix or feature
+- Open a pull request on Gentleman-Programming/gentle-ai
+- Prepare Gentle AI changes for review
+
+For other destinations, follow their own contribution policy; this repository's issue, label and naming gates do not apply.
 
 ## Critical Rules
 
