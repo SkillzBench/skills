@@ -385,13 +385,13 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [policy-and-managed-settings](./skills/policy-and-managed-settings/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/policy-and-managed-settings) |
 | [ponytail](./skills/ponytail/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/ponytail) |
 | [ponytail-6cbf98](./skills/ponytail-6cbf98/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/ponytail-6cbf98) |
-| [ponytail-audit](./skills/ponytail-audit/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/ponytail-audit) |
+| [ponytail-audit](./skills/ponytail-audit/SKILL.md) | coding-testing | MIT | +11.46pp | [page](https://skillzbench.com/skills/ponytail-audit) |
 | [ponytail-audit-3f525c](./skills/ponytail-audit-3f525c/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/ponytail-audit-3f525c) |
 | [ponytail-debt](./skills/ponytail-debt/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/ponytail-debt) |
-| [ponytail-gain-0e6654](./skills/ponytail-gain-0e6654/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/ponytail-gain-0e6654) |
+| [ponytail-gain-0e6654](./skills/ponytail-gain-0e6654/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/ponytail-gain-0e6654) |
 | [ponytail-help](./skills/ponytail-help/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/ponytail-help) |
 | [ponytail-help-eeaadc](./skills/ponytail-help-eeaadc/SKILL.md) | agents-meta | MIT | +0.00pp | [page](https://skillzbench.com/skills/ponytail-help-eeaadc) |
-| [ponytail-review](./skills/ponytail-review/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/ponytail-review) |
+| [ponytail-review](./skills/ponytail-review/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/ponytail-review) |
 | [ponytail-review-1b46c5](./skills/ponytail-review-1b46c5/SKILL.md) | coding-testing | MIT | -22.50pp | [page](https://skillzbench.com/skills/ponytail-review-1b46c5) |
 | [popups](./skills/popups/SKILL.md) | marketing-seo | MIT | — | [page](https://skillzbench.com/skills/popups) |
 | [portfolio-case-study-writer](./skills/portfolio-case-study-writer/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/portfolio-case-study-writer) |
@@ -449,7 +449,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [saga-orchestration](./skills/saga-orchestration/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/saga-orchestration) |
 | [scaffold-exercises](./skills/scaffold-exercises/SKILL.md) | education-learning | MIT | — | [page](https://skillzbench.com/skills/scaffold-exercises) |
 | [scgpt](./skills/scgpt/SKILL.md) | research-analysis | Apache-2.0 | — | [page](https://skillzbench.com/skills/scgpt) |
-| [security-and-hardening](./skills/security-and-hardening/SKILL.md) | security | MIT | +0.00pp | [page](https://skillzbench.com/skills/security-and-hardening) |
+| [security-and-hardening](./skills/security-and-hardening/SKILL.md) | security | MIT | +12.50pp | [page](https://skillzbench.com/skills/security-and-hardening) |
 | [security-review](./skills/security-review/SKILL.md) | security | MIT | +25.00pp | [page](https://skillzbench.com/skills/security-review) |
 | [sender-reputation](./skills/sender-reputation/SKILL.md) | email-communication | MIT | — | [page](https://skillzbench.com/skills/sender-reputation) |
 | [sessions](./skills/sessions/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/sessions) |
@@ -524,7 +524,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [viral-youtube-shorts](./skills/viral-youtube-shorts/SKILL.md) | marketing-seo | LicenseRef-AIQ-Labs-Seed | -12.50pp | [page](https://skillzbench.com/skills/viral-youtube-shorts) |
 | [voiceover](./skills/voiceover/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/voiceover) |
 | [wait-what](./skills/wait-what/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/wait-what) |
-| [wayfinder](./skills/wayfinder/SKILL.md) | productivity-automation | MIT | +33.33pp | [page](https://skillzbench.com/skills/wayfinder) |
+| [wayfinder](./skills/wayfinder/SKILL.md) | productivity-automation | MIT | -12.50pp | [page](https://skillzbench.com/skills/wayfinder) |
 | [web3-testing](./skills/web3-testing/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/web3-testing) |
 | [web-design-engineer](./skills/web-design-engineer/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/web-design-engineer) |
 | [webhook-processing](./skills/webhook-processing/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/webhook-processing) |
