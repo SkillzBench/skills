@@ -138,7 +138,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [cold-outreach](./skills/cold-outreach/SKILL.md) | sales-crm | MIT | — | [page](https://skillzbench.com/skills/cold-outreach) |
 | [comment-writer](./skills/comment-writer/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/comment-writer) |
 | [comm-lit-review](./skills/comm-lit-review/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/comm-lit-review) |
-| [company-creator](./skills/company-creator/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/company-creator) |
+| [company-creator](./skills/company-creator/SKILL.md) | agents-meta | MIT | -12.50pp | [page](https://skillzbench.com/skills/company-creator) |
 | [competitive-platform-analysis](./skills/competitive-platform-analysis/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/competitive-platform-analysis) |
 | [competitive-report-structure](./skills/competitive-report-structure/SKILL.md) | research-analysis | MIT | +0.00pp | [page](https://skillzbench.com/skills/competitive-report-structure) |
 | [competitor-profiling](./skills/competitor-profiling/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/competitor-profiling) |
@@ -163,7 +163,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [create-issue-interaction-ui](./skills/create-issue-interaction-ui/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/create-issue-interaction-ui) |
 | [create-paperclip-bundled-skill](./skills/create-paperclip-bundled-skill/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/create-paperclip-bundled-skill) |
 | [create-plugin](./skills/create-plugin/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/create-plugin) |
-| [create-verification-skill](./skills/create-verification-skill/SKILL.md) | coding-testing | MIT | -33.33pp | [page](https://skillzbench.com/skills/create-verification-skill) |
+| [create-verification-skill](./skills/create-verification-skill/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/create-verification-skill) |
 | [creative-portfolio-resume](./skills/creative-portfolio-resume/SKILL.md) | career-resume | MIT | — | [page](https://skillzbench.com/skills/creative-portfolio-resume) |
 | [crosspost](./skills/crosspost/SKILL.md) | marketing-seo | MIT | +0.00pp | [page](https://skillzbench.com/skills/crosspost) |
 | [ctf-ai-ml](./skills/ctf-ai-ml/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/ctf-ai-ml) |
@@ -246,7 +246,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [frontend-patterns](./skills/frontend-patterns/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/frontend-patterns) |
 | [frontend-slides](./skills/frontend-slides/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/frontend-slides) |
 | [frontend-ui-engineering](./skills/frontend-ui-engineering/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/frontend-ui-engineering) |
-| [full-output-enforcement](./skills/full-output-enforcement/SKILL.md) | agents-meta | MIT | -12.50pp | [page](https://skillzbench.com/skills/full-output-enforcement) |
+| [full-output-enforcement](./skills/full-output-enforcement/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/full-output-enforcement) |
 | [gemini-search](./skills/gemini-search/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/gemini-search) |
 | [gentle-ai-bench](./skills/gentle-ai-bench/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/gentle-ai-bench) |
 | [gentle-ai-branch-pr](./skills/gentle-ai-branch-pr/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/gentle-ai-branch-pr) |
@@ -305,7 +305,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [image-gen](./skills/image-gen/SKILL.md) | images-graphics | MIT | — | [page](https://skillzbench.com/skills/image-gen) |
 | [imagegen](./skills/imagegen/SKILL.md) | images-graphics | MIT | — | [page](https://skillzbench.com/skills/imagegen) |
 | [imagegen-frontend-mobile](./skills/imagegen-frontend-mobile/SKILL.md) | images-graphics | MIT | +35.00pp | [page](https://skillzbench.com/skills/imagegen-frontend-mobile) |
-| [imagegen-frontend-web](./skills/imagegen-frontend-web/SKILL.md) | images-graphics | MIT | — | [page](https://skillzbench.com/skills/imagegen-frontend-web) |
+| [imagegen-frontend-web](./skills/imagegen-frontend-web/SKILL.md) | images-graphics | MIT | -25.00pp | [page](https://skillzbench.com/skills/imagegen-frontend-web) |
 | [image-to-code](./skills/image-to-code/SKILL.md) | web-design-frontend | MIT | +12.50pp | [page](https://skillzbench.com/skills/image-to-code) |
 | [improve-animations](./skills/improve-animations/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/improve-animations) |
 | [improve-codebase-architecture](./skills/improve-codebase-architecture/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/improve-codebase-architecture) |
@@ -407,7 +407,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [proteinmpnn](./skills/proteinmpnn/SKILL.md) | research-analysis | Apache-2.0 | — | [page](https://skillzbench.com/skills/proteinmpnn) |
 | [prototype](./skills/prototype/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/prototype) |
 | [provider-setup](./skills/provider-setup/SKILL.md) | email-communication | MIT | — | [page](https://skillzbench.com/skills/provider-setup) |
-| [pr-report](./skills/pr-report/SKILL.md) | coding-testing | MIT | -15.00pp | [page](https://skillzbench.com/skills/pr-report) |
+| [pr-report](./skills/pr-report/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/pr-report) |
 | [public-relations](./skills/public-relations/SKILL.md) | marketing-seo | MIT | — | [page](https://skillzbench.com/skills/public-relations) |
 | [rate-limiting](./skills/rate-limiting/SKILL.md) | email-communication | MIT | — | [page](https://skillzbench.com/skills/rate-limiting) |
 | [rea-changelog-update](./skills/rea-changelog-update/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/rea-changelog-update) |
@@ -455,7 +455,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [sessions](./skills/sessions/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/sessions) |
 | [setup-code-maintenance-bot](./skills/setup-code-maintenance-bot/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/setup-code-maintenance-bot) |
 | [setup-environment](./skills/setup-environment/SKILL.md) | devops-cloud | MIT | — | [page](https://skillzbench.com/skills/setup-environment) |
-| [setup-matt-pocock-skills](./skills/setup-matt-pocock-skills/SKILL.md) | coding-testing | MIT | -37.50pp | [page](https://skillzbench.com/skills/setup-matt-pocock-skills) |
+| [setup-matt-pocock-skills](./skills/setup-matt-pocock-skills/SKILL.md) | coding-testing | MIT | +3.33pp | [page](https://skillzbench.com/skills/setup-matt-pocock-skills) |
 | [setup-pre-commit](./skills/setup-pre-commit/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/setup-pre-commit) |
 | [shadcn](./skills/shadcn/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/shadcn) |
 | [shipping-and-launch](./skills/shipping-and-launch/SKILL.md) | devops-cloud | MIT | +12.50pp | [page](https://skillzbench.com/skills/shipping-and-launch) |
