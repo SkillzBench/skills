@@ -288,10 +288,10 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [gsap-core](./skills/gsap-core/SKILL.md) | web-design-frontend | MIT | +25.00pp | [page](https://skillzbench.com/skills/gsap-core) |
 | [gsap-frameworks](./skills/gsap-frameworks/SKILL.md) | web-design-frontend | MIT | +6.25pp | [page](https://skillzbench.com/skills/gsap-frameworks) |
 | [gsap-performance](./skills/gsap-performance/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/gsap-performance) |
-| [gsap-plugins](./skills/gsap-plugins/SKILL.md) | web-design-frontend | MIT | +25.00pp | [page](https://skillzbench.com/skills/gsap-plugins) |
+| [gsap-plugins](./skills/gsap-plugins/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/gsap-plugins) |
 | [gsap-react](./skills/gsap-react/SKILL.md) | web-design-frontend | MIT | -12.50pp | [page](https://skillzbench.com/skills/gsap-react) |
 | [gsap-scrolltrigger](./skills/gsap-scrolltrigger/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/gsap-scrolltrigger) |
-| [gsap-timeline](./skills/gsap-timeline/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/gsap-timeline) |
+| [gsap-timeline](./skills/gsap-timeline/SKILL.md) | web-design-frontend | MIT | +3.13pp | [page](https://skillzbench.com/skills/gsap-timeline) |
 | [gsap-utils](./skills/gsap-utils/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/gsap-utils) |
 | [handoff](./skills/handoff/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/handoff) |
 | [hard-call](./skills/hard-call/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/hard-call) |
@@ -503,11 +503,11 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [transactional-email](./skills/transactional-email/SKILL.md) | marketing-seo | MIT | — | [page](https://skillzbench.com/skills/transactional-email) |
 | [transitions-agent](./skills/transitions-agent/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/transitions-agent) |
 | [triage](./skills/triage/SKILL.md) | coding-testing | MIT | +20.00pp | [page](https://skillzbench.com/skills/triage) |
-| [understand-chat](./skills/understand-chat/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/understand-chat) |
+| [understand-chat](./skills/understand-chat/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/understand-chat) |
 | [understand-dashboard](./skills/understand-dashboard/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/understand-dashboard) |
 | [understand-diff](./skills/understand-diff/SKILL.md) | coding-testing | MIT | -12.50pp | [page](https://skillzbench.com/skills/understand-diff) |
 | [understand-domain](./skills/understand-domain/SKILL.md) | research-analysis | MIT | +25.00pp | [page](https://skillzbench.com/skills/understand-domain) |
-| [understand-explain](./skills/understand-explain/SKILL.md) | coding-testing | MIT | -75.00pp | [page](https://skillzbench.com/skills/understand-explain) |
+| [understand-explain](./skills/understand-explain/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/understand-explain) |
 | [understand-onboard](./skills/understand-onboard/SKILL.md) | productivity-automation | MIT | +0.00pp | [page](https://skillzbench.com/skills/understand-onboard) |
 | [using-agent-skills](./skills/using-agent-skills/SKILL.md) | agents-meta | MIT | +0.00pp | [page](https://skillzbench.com/skills/using-agent-skills) |
 | [using-git-worktrees](./skills/using-git-worktrees/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/using-git-worktrees) |
