@@ -2,6 +2,6 @@
 
 [![SkillzBench](https://skillzbench.com/api/badge/c-level-skills)](https://skillzbench.com/skills/c-level-skills)
 
-"Use when looking for which C-level advisor skill fits a question (14 C-suite roles, board meetings, culture, M&A). Lists them and routes to one."
+"Find which C-level advisor fits a question: 14 C-suite roles, board meetings, culture, M&A. Use whenever the user asks which advisor to use."
 
 Mirrored from [skillzbench.com/skills/c-level-skills](https://skillzbench.com/skills/c-level-skills) — Trust Score, benchmarks and install options live there.
