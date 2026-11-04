@@ -285,12 +285,12 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [gpt-taste](./skills/gpt-taste/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/gpt-taste) |
 | [grant-proposal](./skills/grant-proposal/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/grant-proposal) |
 | [grilling](./skills/grilling/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/grilling) |
-| [gsap-core](./skills/gsap-core/SKILL.md) | web-design-frontend | MIT | +25.00pp | [page](https://skillzbench.com/skills/gsap-core) |
-| [gsap-frameworks](./skills/gsap-frameworks/SKILL.md) | web-design-frontend | MIT | +6.25pp | [page](https://skillzbench.com/skills/gsap-frameworks) |
+| [gsap-core](./skills/gsap-core/SKILL.md) | web-design-frontend | MIT | -10.00pp | [page](https://skillzbench.com/skills/gsap-core) |
+| [gsap-frameworks](./skills/gsap-frameworks/SKILL.md) | web-design-frontend | MIT | +12.50pp | [page](https://skillzbench.com/skills/gsap-frameworks) |
 | [gsap-performance](./skills/gsap-performance/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/gsap-performance) |
 | [gsap-plugins](./skills/gsap-plugins/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/gsap-plugins) |
-| [gsap-react](./skills/gsap-react/SKILL.md) | web-design-frontend | MIT | -12.50pp | [page](https://skillzbench.com/skills/gsap-react) |
-| [gsap-scrolltrigger](./skills/gsap-scrolltrigger/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/gsap-scrolltrigger) |
+| [gsap-react](./skills/gsap-react/SKILL.md) | web-design-frontend | MIT | +2.08pp | [page](https://skillzbench.com/skills/gsap-react) |
+| [gsap-scrolltrigger](./skills/gsap-scrolltrigger/SKILL.md) | web-design-frontend | MIT | +37.50pp | [page](https://skillzbench.com/skills/gsap-scrolltrigger) |
 | [gsap-timeline](./skills/gsap-timeline/SKILL.md) | web-design-frontend | MIT | +3.13pp | [page](https://skillzbench.com/skills/gsap-timeline) |
 | [gsap-utils](./skills/gsap-utils/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/gsap-utils) |
 | [handoff](./skills/handoff/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/handoff) |
