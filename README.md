@@ -132,7 +132,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [code-review-and-quality](./skills/code-review-and-quality/SKILL.md) | coding-testing | MIT | +3.13pp | [page](https://skillzbench.com/skills/code-review-and-quality) |
 | [code-simplification](./skills/code-simplification/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/code-simplification) |
 | [code-understanding](./skills/code-understanding/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/code-understanding) |
-| [coding-standards](./skills/coding-standards/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/coding-standards) |
+| [coding-standards](./skills/coding-standards/SKILL.md) | coding-testing | MIT | -0.62pp | [page](https://skillzbench.com/skills/coding-standards) |
 | [cognitive-doc-design](./skills/cognitive-doc-design/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/cognitive-doc-design) |
 | [cold-email-writer](./skills/cold-email-writer/SKILL.md) | writing-content | MIT | +0.00pp | [page](https://skillzbench.com/skills/cold-email-writer) |
 | [cold-outreach](./skills/cold-outreach/SKILL.md) | sales-crm | MIT | — | [page](https://skillzbench.com/skills/cold-outreach) |
@@ -220,7 +220,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [events](./skills/events/SKILL.md) | marketing-seo | MIT | — | [page](https://skillzbench.com/skills/events) |
 | [evo2](./skills/evo2/SKILL.md) | research-analysis | Apache-2.0 | — | [page](https://skillzbench.com/skills/evo2) |
 | [exa-search](./skills/exa-search/SKILL.md) | research-analysis | MIT | +0.00pp | [page](https://skillzbench.com/skills/exa-search) |
-| [executing-plans](./skills/executing-plans/SKILL.md) | productivity-automation | MIT | +0.00pp | [page](https://skillzbench.com/skills/executing-plans) |
+| [executing-plans](./skills/executing-plans/SKILL.md) | productivity-automation | MIT | -4.17pp | [page](https://skillzbench.com/skills/executing-plans) |
 | [executive-resume-writer](./skills/executive-resume-writer/SKILL.md) | career-resume | MIT | — | [page](https://skillzbench.com/skills/executive-resume-writer) |
 | [experiment-plan](./skills/experiment-plan/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/experiment-plan) |
 | [experiments](./skills/experiments/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/experiments) |
@@ -292,7 +292,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [gsap-react](./skills/gsap-react/SKILL.md) | web-design-frontend | MIT | +2.08pp | [page](https://skillzbench.com/skills/gsap-react) |
 | [gsap-scrolltrigger](./skills/gsap-scrolltrigger/SKILL.md) | web-design-frontend | MIT | +37.50pp | [page](https://skillzbench.com/skills/gsap-scrolltrigger) |
 | [gsap-timeline](./skills/gsap-timeline/SKILL.md) | web-design-frontend | MIT | +3.13pp | [page](https://skillzbench.com/skills/gsap-timeline) |
-| [gsap-utils](./skills/gsap-utils/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/gsap-utils) |
+| [gsap-utils](./skills/gsap-utils/SKILL.md) | coding-testing | MIT | +37.50pp | [page](https://skillzbench.com/skills/gsap-utils) |
 | [handoff](./skills/handoff/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/handoff) |
 | [hard-call](./skills/hard-call/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/hard-call) |
 | [high-end-visual-design](./skills/high-end-visual-design/SKILL.md) | web-design-frontend | MIT | -25.00pp | [page](https://skillzbench.com/skills/high-end-visual-design) |
@@ -301,7 +301,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [idea-discovery](./skills/idea-discovery/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/idea-discovery) |
 | [idea-discovery-robot](./skills/idea-discovery-robot/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/idea-discovery-robot) |
 | [idor-testing](./skills/idor-testing/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/idor-testing) |
-| [image](./skills/image/SKILL.md) | images-graphics | MIT | — | [page](https://skillzbench.com/skills/image) |
+| [image](./skills/image/SKILL.md) | images-graphics | MIT | +12.50pp | [page](https://skillzbench.com/skills/image) |
 | [image-gen](./skills/image-gen/SKILL.md) | images-graphics | MIT | — | [page](https://skillzbench.com/skills/image-gen) |
 | [imagegen](./skills/imagegen/SKILL.md) | images-graphics | MIT | — | [page](https://skillzbench.com/skills/imagegen) |
 | [imagegen-frontend-mobile](./skills/imagegen-frontend-mobile/SKILL.md) | images-graphics | MIT | -16.67pp | [page](https://skillzbench.com/skills/imagegen-frontend-mobile) |
