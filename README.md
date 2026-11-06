@@ -46,7 +46,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [alphaxiv](./skills/alphaxiv/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/alphaxiv) |
 | [amplitude-automation](./skills/amplitude-automation/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/amplitude-automation) |
 | [analyzing-cobalt-strike-beacon-configuration](./skills/analyzing-cobalt-strike-beacon-configuration/SKILL.md) | security | Apache-2.0 | — | [page](https://skillzbench.com/skills/analyzing-cobalt-strike-beacon-configuration) |
-| [analyzing-command-and-control-communication](./skills/analyzing-command-and-control-communication/SKILL.md) | security | Apache-2.0 | — | [page](https://skillzbench.com/skills/analyzing-command-and-control-communication) |
+| [analyzing-command-and-control-communication](./skills/analyzing-command-and-control-communication/SKILL.md) | security | Apache-2.0 | +0.00pp | [page](https://skillzbench.com/skills/analyzing-command-and-control-communication) |
 | [analyzing-lnk-file-and-jump-list-artifacts](./skills/analyzing-lnk-file-and-jump-list-artifacts/SKILL.md) | security | Apache-2.0 | — | [page](https://skillzbench.com/skills/analyzing-lnk-file-and-jump-list-artifacts) |
 | [analyzing-macro-malware-in-office-documents](./skills/analyzing-macro-malware-in-office-documents/SKILL.md) | security | Apache-2.0 | — | [page](https://skillzbench.com/skills/analyzing-macro-malware-in-office-documents) |
 | [animation-vocabulary](./skills/animation-vocabulary/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/animation-vocabulary) |
@@ -387,7 +387,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [ponytail-6cbf98](./skills/ponytail-6cbf98/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/ponytail-6cbf98) |
 | [ponytail-audit](./skills/ponytail-audit/SKILL.md) | coding-testing | MIT | +11.46pp | [page](https://skillzbench.com/skills/ponytail-audit) |
 | [ponytail-audit-3f525c](./skills/ponytail-audit-3f525c/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/ponytail-audit-3f525c) |
-| [ponytail-debt](./skills/ponytail-debt/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/ponytail-debt) |
+| [ponytail-debt](./skills/ponytail-debt/SKILL.md) | coding-testing | MIT | +14.29pp | [page](https://skillzbench.com/skills/ponytail-debt) |
 | [ponytail-gain-0e6654](./skills/ponytail-gain-0e6654/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/ponytail-gain-0e6654) |
 | [ponytail-help](./skills/ponytail-help/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/ponytail-help) |
 | [ponytail-help-eeaadc](./skills/ponytail-help-eeaadc/SKILL.md) | agents-meta | MIT | +0.00pp | [page](https://skillzbench.com/skills/ponytail-help-eeaadc) |
