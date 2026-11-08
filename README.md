@@ -15,7 +15,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 
 | Skill | Category | License | Lift | Directory |
 |---|---|---|---|---|
-| [ablation-planner](./skills/ablation-planner/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/ablation-planner) |
+| [ablation-planner](./skills/ablation-planner/SKILL.md) | research-analysis | MIT | +0.00pp | [page](https://skillzbench.com/skills/ablation-planner) |
 | [ab-testing-2a466d](./skills/ab-testing-2a466d/SKILL.md) | marketing-seo | MIT | — | [page](https://skillzbench.com/skills/ab-testing-2a466d) |
 | [academic-cv-builder](./skills/academic-cv-builder/SKILL.md) | career-resume | MIT | — | [page](https://skillzbench.com/skills/academic-cv-builder) |
 | [academic-paper-reviewer](./skills/academic-paper-reviewer/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/academic-paper-reviewer) |
@@ -222,7 +222,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [exa-search](./skills/exa-search/SKILL.md) | research-analysis | MIT | +0.00pp | [page](https://skillzbench.com/skills/exa-search) |
 | [executing-plans](./skills/executing-plans/SKILL.md) | productivity-automation | MIT | -4.17pp | [page](https://skillzbench.com/skills/executing-plans) |
 | [executive-resume-writer](./skills/executive-resume-writer/SKILL.md) | career-resume | MIT | — | [page](https://skillzbench.com/skills/executive-resume-writer) |
-| [experiment-plan](./skills/experiment-plan/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/experiment-plan) |
+| [experiment-plan](./skills/experiment-plan/SKILL.md) | research-analysis | MIT | +0.00pp | [page](https://skillzbench.com/skills/experiment-plan) |
 | [experiments](./skills/experiments/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/experiments) |
 | [exploitability-validation](./skills/exploitability-validation/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/exploitability-validation) |
 | [fair-esm2](./skills/fair-esm2/SKILL.md) | research-analysis | Apache-2.0 | — | [page](https://skillzbench.com/skills/fair-esm2) |
@@ -297,7 +297,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [hard-call](./skills/hard-call/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/hard-call) |
 | [high-end-visual-design](./skills/high-end-visual-design/SKILL.md) | web-design-frontend | MIT | -25.00pp | [page](https://skillzbench.com/skills/high-end-visual-design) |
 | [html-preview](./skills/html-preview/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/html-preview) |
-| [idea-creator](./skills/idea-creator/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/idea-creator) |
+| [idea-creator](./skills/idea-creator/SKILL.md) | research-analysis | MIT | +0.00pp | [page](https://skillzbench.com/skills/idea-creator) |
 | [idea-discovery](./skills/idea-discovery/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/idea-discovery) |
 | [idea-discovery-robot](./skills/idea-discovery-robot/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/idea-discovery-robot) |
 | [idor-testing](./skills/idor-testing/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/idor-testing) |
@@ -341,9 +341,9 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [marketing-psychology](./skills/marketing-psychology/SKILL.md) | marketing-seo | MIT | +14.29pp | [page](https://skillzbench.com/skills/marketing-psychology) |
 | [market-research](./skills/market-research/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/market-research) |
 | [mcp-dependency-review](./skills/mcp-dependency-review/SKILL.md) | security | MIT | +0.00pp | [page](https://skillzbench.com/skills/mcp-dependency-review) |
-| [mcp-server-patterns](./skills/mcp-server-patterns/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/mcp-server-patterns) |
-| [memory-leak-audit](./skills/memory-leak-audit/SKILL.md) | coding-testing | MIT | +16.67pp | [page](https://skillzbench.com/skills/memory-leak-audit) |
-| [mermaid-diagram](./skills/mermaid-diagram/SKILL.md) | images-graphics | MIT | — | [page](https://skillzbench.com/skills/mermaid-diagram) |
+| [mcp-server-patterns](./skills/mcp-server-patterns/SKILL.md) | coding-testing | MIT | -33.33pp | [page](https://skillzbench.com/skills/mcp-server-patterns) |
+| [memory-leak-audit](./skills/memory-leak-audit/SKILL.md) | coding-testing | MIT | +5.00pp | [page](https://skillzbench.com/skills/memory-leak-audit) |
+| [mermaid-diagram](./skills/mermaid-diagram/SKILL.md) | images-graphics | MIT | +12.50pp | [page](https://skillzbench.com/skills/mermaid-diagram) |
 | [meta-optimize](./skills/meta-optimize/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/meta-optimize) |
 | [metasploit-framework](./skills/metasploit-framework/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/metasploit-framework) |
 | [migrate-issues](./skills/migrate-issues/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/migrate-issues) |
