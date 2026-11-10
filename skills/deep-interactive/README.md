@@ -1,0 +1,7 @@
+# deep-interactive
+
+[![SkillzBench](https://skillzbench.com/api/badge/deep-interactive)](https://skillzbench.com/skills/deep-interactive)
+
+Deep Interactive courses. Plans the course so the learner manipulates something on most pages — simulations, diagrams they explore, code they run, games, 3D scenes — with slides reserved for the opening frame and the closing consolidation. Use when the topic has a mechanism, a variable to vary, a process to trace, or a structure to inspect.
+
+Mirrored from [skillzbench.com/skills/deep-interactive](https://skillzbench.com/skills/deep-interactive) — Trust Score, benchmarks and install options live there.
