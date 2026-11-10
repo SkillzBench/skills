@@ -2,6 +2,6 @@
 
 [![SkillzBench](https://skillzbench.com/api/badge/marketing-ideas)](https://skillzbench.com/skills/marketing-ideas)
 
-"When the user needs marketing ideas, inspiration, or strategies for their SaaS or software product. Also use when the user asks for 'marketing ideas,' 'growth ideas,' 'how to market,' 'marketing strategies,' 'marketing tactics,' 'ways to promote,' 'ideas to grow,' 'what else can I try,' 'I don't know how to market this,' 'brainstorm marketing,' or 'what marketing should I do.' Use this as a starting point whenever someone is stuck or looking for inspiration on how to grow. For specific channel execution, see the relevant skill (ads, social, emails, etc.)."
+"When the user wants marketing ideas or growth tactics for a software product, or asks what to try to get attention or the next customers with little time or budget, or after the obvious channels. Draws on a library of 139 ideas. For a specific channel, see that skill (ads, social, emails, and others). For a full plan, see marketing-plan."
 
 Mirrored from [skillzbench.com/skills/marketing-ideas](https://skillzbench.com/skills/marketing-ideas) — Trust Score, benchmarks and install options live there.
