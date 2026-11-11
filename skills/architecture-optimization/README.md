@@ -1,0 +1,7 @@
+# architecture-optimization
+
+[![SkillzBench](https://skillzbench.com/api/badge/architecture-optimization)](https://skillzbench.com/skills/architecture-optimization)
+
+'Guided journey from a working codebase grown slow and tangled to one measurably fast, cleanly bounded, and readable. Orchestrates eight skills phase by phase - working-with-legacy-code, clean-architecture, software-design-philosophy, refactoring-patterns, system-design, ddia-systems, release-it, pragmatic-programmer - every phase carries its method inline so it runs standalone, asking the user questions at every decision point and recording results in the project docs/ folder (PERFORMANCE.md, ARCHITECTURE.md, ARCHITECTURE-OPTIMIZATION-PLAN.md) so the journey resumes across sessions. Use when the user wants to make an app faster, untangle drifted boundaries, fix slow endpoints and queries, or says ''it works but it is slow and getting worse''. For an untested prototype, improve-code-quality; for an aged codebase you fear to touch, remove-technical-debt; for greenfield structure, design-code-architecture; for marketing-site page speed, improve-website. For one framework in isolation, invoke that skill directly.'
+
+Mirrored from [skillzbench.com/skills/architecture-optimization](https://skillzbench.com/skills/architecture-optimization) — Trust Score, benchmarks and install options live there.
