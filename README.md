@@ -181,7 +181,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [competitor-profiling](./skills/competitor-profiling/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/competitor-profiling) |
 | [competitors](./skills/competitors/SKILL.md) | marketing-seo | MIT | +12.50pp | [page](https://skillzbench.com/skills/competitors) |
 | [compiler-commit](./skills/compiler-commit/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/compiler-commit) |
-| [compiler-orchestrator](./skills/compiler-orchestrator/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/compiler-orchestrator) |
+| [compiler-orchestrator](./skills/compiler-orchestrator/SKILL.md) | coding-testing | MIT | -25.00pp | [page](https://skillzbench.com/skills/compiler-orchestrator) |
 | [compiler-verify](./skills/compiler-verify/SKILL.md) | coding-testing | MIT | -12.50pp | [page](https://skillzbench.com/skills/compiler-verify) |
 | [component](./skills/component/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/component) |
 | [component-fixtures](./skills/component-fixtures/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/component-fixtures) |
@@ -308,7 +308,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [fact-check-e5b2df](./skills/fact-check-e5b2df/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/fact-check-e5b2df) |
 | [fair-esm2](./skills/fair-esm2/SKILL.md) | research-analysis | Apache-2.0 | — | [page](https://skillzbench.com/skills/fair-esm2) |
 | [fal-ai-media](./skills/fal-ai-media/SKILL.md) | video-motion | MIT | — | [page](https://skillzbench.com/skills/fal-ai-media) |
-| [feature-flags-0d4765](./skills/feature-flags-0d4765/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/feature-flags-0d4765) |
+| [feature-flags-0d4765](./skills/feature-flags-0d4765/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/feature-flags-0d4765) |
 | [feature-spec](./skills/feature-spec/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/feature-spec) |
 | [feature-tryouts](./skills/feature-tryouts/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/feature-tryouts) |
 | [feedback-learning](./skills/feedback-learning/SKILL.md) | agents-meta | MIT | +0.00pp | [page](https://skillzbench.com/skills/feedback-learning) |
@@ -320,7 +320,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [finishing-a-development-branch](./skills/finishing-a-development-branch/SKILL.md) | coding-testing | MIT | +3.13pp | [page](https://skillzbench.com/skills/finishing-a-development-branch) |
 | [fix-ci-failures](./skills/fix-ci-failures/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/fix-ci-failures) |
 | [fix-slow-queries](./skills/fix-slow-queries/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/fix-slow-queries) |
-| [flags](./skills/flags/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/flags) |
+| [flags](./skills/flags/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/flags) |
 | [flaky-smoke-tests](./skills/flaky-smoke-tests/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/flaky-smoke-tests) |
 | [follow-up-results](./skills/follow-up-results/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/follow-up-results) |
 | [formula-derivation](./skills/formula-derivation/SKILL.md) | research-analysis | MIT | +0.00pp | [page](https://skillzbench.com/skills/formula-derivation) |
