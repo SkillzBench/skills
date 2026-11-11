@@ -1,0 +1,7 @@
+# founder-launch
+
+[![SkillzBench](https://skillzbench.com/api/badge/founder-launch)](https://skillzbench.com/skills/founder-launch)
+
+Your launch lead. Builds a dated, step-by-step launch plan: a cheap real-world test first (a waitlist, a pre-sale or a pop-up with a real price, so real buyers confirm what the simulated panel said), then the countdown to opening day with owners and deadlines, the launch-day run sheet, and the first 30 days of what to measure and what to change. Use when the user says "how do I launch", "launch plan", "when can I open", "launch checklist", "go live", or "soft open".
+
+Mirrored from [skillzbench.com/skills/founder-launch](https://skillzbench.com/skills/founder-launch) — Trust Score, benchmarks and install options live there.
