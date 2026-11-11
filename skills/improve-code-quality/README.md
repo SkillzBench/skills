@@ -1,0 +1,7 @@
+# improve-code-quality
+
+[![SkillzBench](https://skillzbench.com/api/badge/improve-code-quality)](https://skillzbench.com/skills/improve-code-quality)
+
+'Guided journey from a working-but-untested vibe-coded prototype to a production-ready product with tests, clean structure, a business-rules boundary, and resilience at scale. Orchestrates nine skills phase by phase - working-with-legacy-code, clean-code, refactoring-patterns, software-design-philosophy, clean-architecture, pragmatic-programmer, release-it, system-design, ddia-systems - asking the user questions at every decision point and recording results in the project docs/ folder (TESTING.md, TECH-DEBT.md, IMPROVE-CODE-QUALITY-PLAN.md) so the journey resumes across sessions. Use when the user wants to harden an AI-generated prototype, add tests before refactoring, make code safe to change, or says ''this works on my machine but I am scared to touch it''. For an aged codebase, remove-technical-debt; for greenfield structure, design-code-architecture; for a product and UX pass, improve-app; to optimize speed and structure, architecture-optimization. For one framework in isolation, invoke that skill directly.'
+
+Mirrored from [skillzbench.com/skills/improve-code-quality](https://skillzbench.com/skills/improve-code-quality) — Trust Score, benchmarks and install options live there.
