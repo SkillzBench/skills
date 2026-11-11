@@ -1,0 +1,7 @@
+# founder-marketing
+
+[![SkillzBench](https://skillzbench.com/api/badge/founder-marketing)](https://skillzbench.com/skills/founder-marketing)
+
+Your marketing director. Turns the buyer panel and the competitor map into positioning, the channels the target customer actually uses, a 30-day launch campaign with dated posts and ads, the first ten hooks, a budget split and the numbers to watch. Every message answers an objection real or simulated buyers raised. Use when the user says "how do I market this", "marketing plan", "launch campaign", "how do I get customers", "where do I advertise", "write my ads", or "positioning".
+
+Mirrored from [skillzbench.com/skills/founder-marketing](https://skillzbench.com/skills/founder-marketing) — Trust Score, benchmarks and install options live there.
