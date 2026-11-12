@@ -1,0 +1,7 @@
+# referral-program
+
+[![SkillzBench](https://skillzbench.com/api/badge/referral-program)](https://skillzbench.com/skills/referral-program)
+
+When the user wants to design, launch, or optimize an in-app referral / invite / share-to-earn program — including reward structure, mechanics, fraud prevention, deep link setup, and viral coefficient measurement. Use when the user mentions "referral program", "invite a friend", "refer and earn", "share to earn", "viral loop", "viral coefficient", "K-factor", "double-sided rewards", "give X get X", "referral rewards", "invite link", "share sheet", "Branch referrals", "in-app invites", or "how to make my app go viral". For deep link infrastructure that referrals depend on, see attribution-setup. For organic content-driven virality (UGC, creator), see creator-ugc-marketing.
+
+Mirrored from [skillzbench.com/skills/referral-program](https://skillzbench.com/skills/referral-program) — Trust Score, benchmarks and install options live there.
