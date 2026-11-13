@@ -2,6 +2,6 @@
 
 [![SkillzBench](https://skillzbench.com/api/badge/pick-ui-library)](https://skillzbench.com/skills/pick-ui-library)
 
-Pick the right library for a given frontend task from a curated, opinionated list — numbers, OTP inputs, charts, command menus, virtualization, drag and drop, toasts, state, styling, and more. Only runs when explicitly invoked; it does not trigger on its own.
+Pick the library for a frontend task from a curated list — primitives, toasts, drawers, command menus, OTP, numbers, charts, virtualization, drag and drop, state, styling.
 
 Mirrored from [skillzbench.com/skills/pick-ui-library](https://skillzbench.com/skills/pick-ui-library) — Trust Score, benchmarks and install options live there.
