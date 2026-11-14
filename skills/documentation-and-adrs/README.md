@@ -2,6 +2,6 @@
 
 [![SkillzBench](https://skillzbench.com/api/badge/documentation-and-adrs)](https://skillzbench.com/skills/documentation-and-adrs)
 
-Records decisions and documentation. Use when you need to document an architecture decision (ADR) or the reasoning behind a design choice, when changing public APIs, shipping features, or when you need to record context that future engineers and agents will need to understand the codebase.
+Records decisions and documentation, and detects when documentation has drifted from the code it describes. Use when you need to document an architecture decision (ADR) or the reasoning behind a design choice, when changing public APIs, shipping features, when docs may be stale or out of sync with the code they describe, when working out which module docs are still accurate, or when setting up a check so docs cannot silently go out of date again.
 
 Mirrored from [skillzbench.com/skills/documentation-and-adrs](https://skillzbench.com/skills/documentation-and-adrs) — Trust Score, benchmarks and install options live there.
