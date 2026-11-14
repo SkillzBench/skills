@@ -2,6 +2,6 @@
 
 [![SkillzBench](https://skillzbench.com/api/badge/test-driven-development-d9125f)](https://skillzbench.com/skills/test-driven-development-d9125f)
 
-Drives development with tests using the red-green-refactor loop. Use when implementing any logic, fixing any bug, or changing any behavior. Use when you need to prove that code works, when a bug report arrives, or when you're about to modify existing functionality. Use when asked to add tests to a function, fix a bug in it or change its behavior, even when the code is pasted inline and the request does not mention tests.
+Drives development with tests using the red-green-refactor loop. Use when implementing any logic, fixing any bug, or changing any behavior. Use when you need to prove that code works, when a bug report arrives, or when you're about to modify existing functionality. Use when asked to add tests to a function, fix a bug in it or change its behavior, even when the code is pasted inline, the request does not mention tests and the answer looks obvious from reading it. The skill writes the failing test first and changes the function second, never the change alone.
 
 Mirrored from [skillzbench.com/skills/test-driven-development-d9125f](https://skillzbench.com/skills/test-driven-development-d9125f) — Trust Score, benchmarks and install options live there.
