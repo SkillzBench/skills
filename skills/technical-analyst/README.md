@@ -1,0 +1,7 @@
+# technical-analyst
+
+[![SkillzBench](https://skillzbench.com/api/badge/technical-analyst)](https://skillzbench.com/skills/technical-analyst)
+
+This skill should be used when analyzing weekly price charts for stocks, stock indices, cryptocurrencies, or forex pairs. Use this skill when the user provides chart images and requests technical analysis, trend identification, support/resistance levels, scenario planning, or probability assessments based purely on chart data without consideration of news or fundamental factors.
+
+Mirrored from [skillzbench.com/skills/technical-analyst](https://skillzbench.com/skills/technical-analyst) — Trust Score, benchmarks and install options live there.
