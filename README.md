@@ -191,7 +191,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [code-documenter](./skills/code-documenter/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/code-documenter) |
 | [code-oss-logs](./skills/code-oss-logs/SKILL.md) | coding-testing | MIT | -50.00pp | [page](https://skillzbench.com/skills/code-oss-logs) |
 | [code-review](./skills/code-review/SKILL.md) | coding-testing | MIT | +14.29pp | [page](https://skillzbench.com/skills/code-review) |
-| [code-review-and-quality](./skills/code-review-and-quality/SKILL.md) | coding-testing | MIT | +25.00pp | [page](https://skillzbench.com/skills/code-review-and-quality) |
+| [code-review-and-quality](./skills/code-review-and-quality/SKILL.md) | coding-testing | MIT | +50.00pp | [page](https://skillzbench.com/skills/code-review-and-quality) |
 | [code-simplification](./skills/code-simplification/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/code-simplification) |
 | [code-understanding](./skills/code-understanding/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/code-understanding) |
 | [coding-standards](./skills/coding-standards/SKILL.md) | coding-testing | MIT | -0.62pp | [page](https://skillzbench.com/skills/coding-standards) |
@@ -370,7 +370,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [frontend-patterns](./skills/frontend-patterns/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/frontend-patterns) |
 | [frontend-slides](./skills/frontend-slides/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/frontend-slides) |
 | [frontend-to-backend-requirements](./skills/frontend-to-backend-requirements/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/frontend-to-backend-requirements) |
-| [frontend-ui-engineering](./skills/frontend-ui-engineering/SKILL.md) | web-design-frontend | MIT | +15.63pp | [page](https://skillzbench.com/skills/frontend-ui-engineering) |
+| [frontend-ui-engineering](./skills/frontend-ui-engineering/SKILL.md) | web-design-frontend | MIT | +12.50pp | [page](https://skillzbench.com/skills/frontend-ui-engineering) |
 | [frontmatter-guard](./skills/frontmatter-guard/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/frontmatter-guard) |
 | [full-output-enforcement](./skills/full-output-enforcement/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/full-output-enforcement) |
 | [functional-area-resolver](./skills/functional-area-resolver/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/functional-area-resolver) |
@@ -663,7 +663,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [scgpt](./skills/scgpt/SKILL.md) | research-analysis | Apache-2.0 | — | [page](https://skillzbench.com/skills/scgpt) |
 | [scorecard-marketing](./skills/scorecard-marketing/SKILL.md) | marketing-seo | MIT | — | [page](https://skillzbench.com/skills/scorecard-marketing) |
 | [sector-analyst](./skills/sector-analyst/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/sector-analyst) |
-| [security-and-hardening](./skills/security-and-hardening/SKILL.md) | security | MIT | +12.50pp | [page](https://skillzbench.com/skills/security-and-hardening) |
+| [security-and-hardening](./skills/security-and-hardening/SKILL.md) | security | MIT | -14.29pp | [page](https://skillzbench.com/skills/security-and-hardening) |
 | [security-review](./skills/security-review/SKILL.md) | security | MIT | +25.00pp | [page](https://skillzbench.com/skills/security-review) |
 | [sender-reputation](./skills/sender-reputation/SKILL.md) | email-communication | MIT | — | [page](https://skillzbench.com/skills/sender-reputation) |
 | [seo-backlink-value](./skills/seo-backlink-value/SKILL.md) | marketing-seo | MIT | — | [page](https://skillzbench.com/skills/seo-backlink-value) |
