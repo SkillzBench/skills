@@ -1,0 +1,7 @@
+# hunt-source-leak
+
+[![SkillzBench](https://skillzbench.com/api/badge/hunt-source-leak)](https://skillzbench.com/skills/hunt-source-leak)
+
+Hunt source code and build artifact leakage — JavaScript source maps (.js.map) reconstructing TypeScript/ES6 source, Swagger/OpenAPI JSON endpoint discovery, .env/.git exposure, webpack chunks with hardcoded secrets, robots.txt/security.txt recon, build-info files, asset-manifest.json API route discovery, .DS_Store file listing. Use at the START of every recon session — these findings often unlock the entire attack surface.
+
+Mirrored from [skillzbench.com/skills/hunt-source-leak](https://skillzbench.com/skills/hunt-source-leak) — Trust Score, benchmarks and install options live there.
