@@ -1,0 +1,7 @@
+# okta-attack
+
+[![SkillzBench](https://skillzbench.com/api/badge/okta-attack)](https://skillzbench.com/skills/okta-attack)
+
+Okta-as-IdP red-team attack chain — tenant discovery, user enumeration (multiple vectors), authentication flow analysis (factors enumeration, push-notification fatigue, SMS bypass), password spray with lockout discipline, Okta-specific phishing primitives (kits, FastPass abuse, OIDC redirect_uri tampering), MFA enumeration, post-compromise admin API surface. Many enterprise orgs use Okta instead of (or alongside) Entra ID. Distinct endpoints, distinct rate-limiting, distinct factor flows. Use when recon shows `<tenant>.okta.com`, `<tenant>.okta-emea.com`, `<tenant>.oktapreview.com`, or autodiscover-style records pointing at Okta IdP.
+
+Mirrored from [skillzbench.com/skills/okta-attack](https://skillzbench.com/skills/okta-attack) — Trust Score, benchmarks and install options live there.
