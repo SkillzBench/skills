@@ -1,0 +1,7 @@
+# hunt-sharepoint
+
+[![SkillzBench](https://skillzbench.com/api/badge/hunt-sharepoint)](https://skillzbench.com/skills/hunt-sharepoint)
+
+Hunt Microsoft SharePoint Server (2013/2016/2019/Subscription Edition) on-prem farms — anonymous endpoint enumeration, version disclosure, legacy SOAP login bypass (Authentication.asmx), ToolShell precondition chain (CVE-2025-53770), SafeControl reflection enumeration via Picker.aspx, NTLM Type-2 AD topology disclosure, custom-branding module discovery, EoL farm permanent-CVE-window exploitation, FormDigest anonymous issuance, file-extension blocklist NOT-an-oracle pattern, custom-zone Forms auth bridging on-prem AD. Use when target has SharePoint headers (SPRequestGuid, X-MS-InvokeApp, X-SharePointHealthScore, MicrosoftSharePointTeamServices) or paths (/_layouts/15/, /_vti_bin/, /_api/, /_catalogs/).
+
+Mirrored from [skillzbench.com/skills/hunt-sharepoint](https://skillzbench.com/skills/hunt-sharepoint) — Trust Score, benchmarks and install options live there.
