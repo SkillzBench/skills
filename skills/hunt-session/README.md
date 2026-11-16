@@ -1,0 +1,7 @@
+# hunt-session
+
+[![SkillzBench](https://skillzbench.com/api/badge/hunt-session)](https://skillzbench.com/skills/hunt-session)
+
+"Hunt Session Management vulnerabilities — session fixation (no regeneration on login), insufficient invalidation on logout / password-change / email-change, predictable or low-entropy session IDs, JWT-as-session with no exp/revocation, refresh-token rotation/reuse-detection gaps, OAuth/SSO session linkage, device-bound-session (DBSC) downgrade, and cookie attribute issues (Secure/HttpOnly/SameSite/__Host-). Validate with TWO real sessions (attacker A + victim B), body-diff every 200, and OOB confirmation for theft chains. Medium to Critical (fixation→admin hijack, no-invalidation→persistent ATO)."
+
+Mirrored from [skillzbench.com/skills/hunt-session](https://skillzbench.com/skills/hunt-session) — Trust Score, benchmarks and install options live there.
