@@ -6,11 +6,11 @@ This Codex plugin skill intentionally mirrors the canonical skill at
 updating OCR delegation instructions; a symlink is avoided because plugin
 installs may only materialize the plugin subtree.
 
-A skill for performing AI code review where OCR provides deterministic engineering (file filtering, rule resolution) and the host agent performs the actual review using its own intelligence and tools.
-
 ## Workflow
 
 ### Step 1: Preview — Determine What to Review
+
+Skip OCR provider setup and `ocr llm test`; the host agent's authentication, usage limits, and costs still apply.
 
 ```bash
 ocr delegate preview --format json [--from <ref> [--to <ref>]] [--commit <hash>] [--exclude <patterns>]
@@ -111,6 +111,8 @@ Each comment must follow this structure:
 
 ### Step 6: Classify and Report
 
+Identify the review mode as delegation.
+
 Before reporting, verify that every previewed file is accounted for. Include `total_files`, `reviewed_files`, `skipped_files`, and `coverage_rate` in the summary. A skipped file must include its reason.
 
 Group findings by severity:
@@ -151,7 +153,7 @@ If the user requested "review and fix":
 
 ## Gotchas
 
-- **No LLM needed on OCR side** — delegation mode never calls an LLM. All intelligence comes from the host agent.
+- **Host-driven analysis** — OCR's native review agent, positioning, and reflection modules do not run in delegation mode.
 - **Rules are grouped** — Files sharing the same rule are grouped together in the output. You can pass any number of paths per call; for large changes, fetch rules per-batch as you review.
 - **Working directory matters** — `ocr delegate` operates on the Git repo at the current directory. Use `--repo /path` to override.
 - **Untracked files in workspace mode** — `preview` includes untracked files. For these, read the file directly instead of using `git diff`.
@@ -178,6 +180,8 @@ condition aborts the command. When the command reports either limit:
    read the original material directly during the review.
 
 ### Troubleshooting CLI Version Compatibility
+
+If an OCR command fails with `command not found`, install the CLI with `npm install -g @alibaba-group/open-code-review` if your environment permits, then retry the same command. If installation is not permitted, explain the prerequisite and stop; do not substitute `ocr review` or ask for an API key.
 
 The `--format` flag is available in `ocr` v1.9.0 and later. The Skill and the
 installed CLI can be updated independently. If a requested `preview` or `rule`
