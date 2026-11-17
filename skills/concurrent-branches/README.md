@@ -1,0 +1,7 @@
+# concurrent-branches
+
+[![SkillzBench](https://skillzbench.com/api/badge/concurrent-branches)](https://skillzbench.com/skills/concurrent-branches)
+
+Resolve conflicts and merges when several branches are open against one repo at the same time — the hotspot files every change must touch (registry manifests, a single version field, shared tool config, one aggregated test module, tracked build output), union-vs-recompute-vs-rebuild as three different correct resolutions, generated artifacts that must never be merged, non-deterministic serialization that makes every branch conflict, renumbered identifiers that git cannot show you, and why a clean auto-merge is not a passing test. Use when rebasing or merging a long-lived branch, resolving conflict markers, reviewing a merge commit, deciding what a repo should commit vs generate, or setting up a repo that will take parallel contributions.
+
+Mirrored from [skillzbench.com/skills/concurrent-branches](https://skillzbench.com/skills/concurrent-branches) — Trust Score, benchmarks and install options live there.
