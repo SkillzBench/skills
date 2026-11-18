@@ -313,7 +313,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [design-code-architecture](./skills/design-code-architecture/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/design-code-architecture) |
 | [design-everyday-things](./skills/design-everyday-things/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/design-everyday-things) |
 | [design-guide](./skills/design-guide/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/design-guide) |
-| [design-motion](./skills/design-motion/SKILL.md) | video-motion | MIT | -12.50pp | [page](https://skillzbench.com/skills/design-motion) |
+| [design-motion](./skills/design-motion/SKILL.md) | video-motion | MIT | -28.57pp | [page](https://skillzbench.com/skills/design-motion) |
 | [design-philosophy](./skills/design-philosophy/SKILL.md) | web-design-frontend | MIT | +25.00pp | [page](https://skillzbench.com/skills/design-philosophy) |
 | [design-system-starter](./skills/design-system-starter/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/design-system-starter) |
 | [design-taste-frontend-v1](./skills/design-taste-frontend-v1/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/design-taste-frontend-v1) |
@@ -460,7 +460,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [handoff](./skills/handoff/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/handoff) |
 | [hard-call](./skills/hard-call/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/hard-call) |
 | [header-cycle-breaker](./skills/header-cycle-breaker/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/header-cycle-breaker) |
-| [health](./skills/health/SKILL.md) | coding-testing | MIT | -14.29pp | [page](https://skillzbench.com/skills/health) |
+| [health](./skills/health/SKILL.md) | coding-testing | MIT | -16.67pp | [page](https://skillzbench.com/skills/health) |
 | [high-end-visual-design](./skills/high-end-visual-design/SKILL.md) | web-design-frontend | MIT | -25.00pp | [page](https://skillzbench.com/skills/high-end-visual-design) |
 | [high-output-management](./skills/high-output-management/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/high-output-management) |
 | [hooked-ux](./skills/hooked-ux/SKILL.md) | marketing-seo | MIT | — | [page](https://skillzbench.com/skills/hooked-ux) |
@@ -825,10 +825,10 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [v3-core-implementation](./skills/v3-core-implementation/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/v3-core-implementation) |
 | [v3-ddd-architecture](./skills/v3-ddd-architecture/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/v3-ddd-architecture) |
 | [v3-mcp-optimization](./skills/v3-mcp-optimization/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/v3-mcp-optimization) |
-| [v8-log](./skills/v8-log/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/v8-log) |
+| [v8-log](./skills/v8-log/SKILL.md) | coding-testing | MIT | +4.17pp | [page](https://skillzbench.com/skills/v8-log) |
 | [v8-poc-classification](./skills/v8-poc-classification/SKILL.md) | security | MIT | +0.00pp | [page](https://skillzbench.com/skills/v8-poc-classification) |
 | [v8-profile](./skills/v8-profile/SKILL.md) | coding-testing | MIT | +3.13pp | [page](https://skillzbench.com/skills/v8-profile) |
-| [v8-regression-testing](./skills/v8-regression-testing/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/v8-regression-testing) |
+| [v8-regression-testing](./skills/v8-regression-testing/SKILL.md) | coding-testing | MIT | -20.00pp | [page](https://skillzbench.com/skills/v8-regression-testing) |
 | [v8-testing](./skills/v8-testing/SKILL.md) | coding-testing | MIT | -33.33pp | [page](https://skillzbench.com/skills/v8-testing) |
 | [v8-understanding](./skills/v8-understanding/SKILL.md) | coding-testing | MIT | -16.67pp | [page](https://skillzbench.com/skills/v8-understanding) |
 | [v8-workflow](./skills/v8-workflow/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/v8-workflow) |
