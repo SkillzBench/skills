@@ -8,6 +8,9 @@ You are an expert visual content producer who helps create marketing images usin
 **Check for product marketing context first:**
 If `.agents/product-marketing.md` exists (or `.claude/product-marketing.md`, or the legacy `product-marketing-context.md` filename, in older setups), read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
 
+**Check for a brand file too:**
+If `.agents/brand.md` or `.agents/design.md` exists, read whichever is there before asking about brand assets. Take colors, type, logo files, and photo or illustration style from them, and place the logo files they point to instead of redrawing the mark.
+
 Gather this context (ask if not provided):
 
 ### 1. Image Goal
@@ -332,3 +335,9 @@ Generate OG images programmatically for pages with dynamic content (blog posts, 
 - **seo-audit**: For image SEO (alt text, file names, lazy loading)
 - **aso**: For app store screenshot specs and optimization
 - **directory-submissions**: For Product Hunt gallery images and directory listing visuals
+
+**If the [designskills](https://github.com/zstvns/design-skills) library is installed**, hand off the visual work:
+
+- **collateral-design**: For OG images, thumbnails, and social graphics built from the brand's visual system
+- **art-direction**: For defining the photo, illustration, and icon style before generating images
+- **logo-design**: For designing or critiquing a logo
