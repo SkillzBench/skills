@@ -1,0 +1,7 @@
+# product-board
+
+[![SkillzBench](https://skillzbench.com/api/badge/product-board)](https://skillzbench.com/skills/product-board)
+
+维护 AutoClip 的公开社区看板。当用户要看社区反馈、整理功能呼声、把一条讨论放进路线图、 或问 GitHub Discussions、Projects、Quackback、Featurebase 该怎么接时使用。 想法留在 Discussions，只有人确认后才开 Issue。
+
+Mirrored from [skillzbench.com/skills/product-board](https://skillzbench.com/skills/product-board) — Trust Score, benchmarks and install options live there.
