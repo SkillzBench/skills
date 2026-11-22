@@ -1,0 +1,7 @@
+# kanchi-dividend-sop
+
+[![SkillzBench](https://skillzbench.com/api/badge/kanchi-dividend-sop)](https://skillzbench.com/skills/kanchi-dividend-sop)
+
+Convert Kanchi-style dividend investing into a repeatable US-stock operating procedure. Use when users ask for かんち式配当投資, dividend screening, dividend growth quality checks, PERxPBR adaptation for US sectors, pullback limit-order planning, or one-page stock memo creation. Covers screening, deep dive, entry planning, and post-purchase monitoring cadence.
+
+Mirrored from [skillzbench.com/skills/kanchi-dividend-sop](https://skillzbench.com/skills/kanchi-dividend-sop) — Trust Score, benchmarks and install options live there.
