@@ -1,0 +1,7 @@
+# founder-pricing
+
+[![SkillzBench](https://skillzbench.com/api/badge/founder-pricing)](https://skillzbench.com/skills/founder-pricing)
+
+Finds the price buyers will actually pay. Reads the consumer panel's four price answers per buyer into a Van Westendorp price-sensitivity range (too cheap, a bargain, getting expensive, too expensive), sets it against what competitors really charge and against the CFO's margin, and recommends a price, a price ladder (good / better / best) and an opening offer to test. Use when the user says "how much should I charge", "price this", "is $X too expensive", "pricing strategy", "what price", or after the consumer panel.
+
+Mirrored from [skillzbench.com/skills/founder-pricing](https://skillzbench.com/skills/founder-pricing) — Trust Score, benchmarks and install options live there.
