@@ -1,0 +1,7 @@
+# residual-edge-analyzer
+
+[![SkillzBench](https://skillzbench.com/api/badge/residual-edge-analyzer)](https://skillzbench.com/skills/residual-edge-analyzer)
+
+Separate a strategy return series into declared baseline exposure and residual edge with returns-based OLS attribution, HAC inference, rolling stability, alternate-baseline sensitivity, and regime breakdowns. Use when evaluating whether backtest, out-of-sample, or live returns contain independent alpha beyond market, equal-weight, momentum, sector, or user-supplied factor returns; when explaining whether a drawdown came from baseline exposure or strategy-specific behavior; or when a strategy needs an attribution quality gate after backtesting. Do not use for holdings-based Brinson attribution, feature-level Shapley explanations, or analysis from summary metrics without a dated return series.
+
+Mirrored from [skillzbench.com/skills/residual-edge-analyzer](https://skillzbench.com/skills/residual-edge-analyzer) — Trust Score, benchmarks and install options live there.
