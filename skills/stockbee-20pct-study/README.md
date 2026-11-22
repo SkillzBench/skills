@@ -1,0 +1,7 @@
+# stockbee-20pct-study
+
+[![SkillzBench](https://skillzbench.com/api/badge/stockbee-20pct-study)](https://skillzbench.com/skills/stockbee-20pct-study)
+
+Build and maintain a Stockbee-style daily 20% mover study for US equities by scanning +20%/-20% movers, classifying catalysts and setup context, updating forward outcomes, and summarizing cohort patterns. Use when the user asks to run a daily 20% study, backfill historical 20% movers, find recurring edge patterns, or build a model book of explosive market moves.
+
+Mirrored from [skillzbench.com/skills/stockbee-20pct-study](https://skillzbench.com/skills/stockbee-20pct-study) — Trust Score, benchmarks and install options live there.
