@@ -1,0 +1,7 @@
+# dual-axis-skill-reviewer
+
+[![SkillzBench](https://skillzbench.com/api/badge/dual-axis-skill-reviewer)](https://skillzbench.com/skills/dual-axis-skill-reviewer)
+
+"Review skills in any project using a dual-axis method: (1) deterministic code-based checks (structure, scripts, tests, execution safety) and (2) LLM deep review findings. Use when you need reproducible quality scoring for `skills/*/SKILL.md`, want to gate merges with a score threshold (for example 90+), or need concrete improvement items for low-scoring skills. Works across projects via --project-root."
+
+Mirrored from [skillzbench.com/skills/dual-axis-skill-reviewer](https://skillzbench.com/skills/dual-axis-skill-reviewer) — Trust Score, benchmarks and install options live there.
