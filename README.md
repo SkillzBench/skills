@@ -247,7 +247,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [churn-prevention-a9effe](./skills/churn-prevention-a9effe/SKILL.md) | sales-crm | MIT | — | [page](https://skillzbench.com/skills/churn-prevention-a9effe) |
 | [ci-artifact-testing](./skills/ci-artifact-testing/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/ci-artifact-testing) |
 | [ci-cd-and-automation](./skills/ci-cd-and-automation/SKILL.md) | devops-cloud | MIT | — | [page](https://skillzbench.com/skills/ci-cd-and-automation) |
-| [ci-maintenance](./skills/ci-maintenance/SKILL.md) | devops-cloud | MIT | — | [page](https://skillzbench.com/skills/ci-maintenance) |
+| [ci-maintenance](./skills/ci-maintenance/SKILL.md) | devops-cloud | MIT | +14.29pp | [page](https://skillzbench.com/skills/ci-maintenance) |
 | [ci-pipeline-synthesizer](./skills/ci-pipeline-synthesizer/SKILL.md) | devops-cloud | MIT | — | [page](https://skillzbench.com/skills/ci-pipeline-synthesizer) |
 | [citation-audit](./skills/citation-audit/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/citation-audit) |
 | [citation-fixer](./skills/citation-fixer/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/citation-fixer) |
@@ -260,7 +260,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [clean-architecture](./skills/clean-architecture/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/clean-architecture) |
 | [clean-code](./skills/clean-code/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/clean-code) |
 | [c-level-skills](./skills/c-level-skills/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/c-level-skills) |
-| [clinical-reports](./skills/clinical-reports/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/clinical-reports) |
+| [clinical-reports](./skills/clinical-reports/SKILL.md) | documents | MIT | +0.00pp | [page](https://skillzbench.com/skills/clinical-reports) |
 | [close](./skills/close/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/close) |
 | [codebase-design](./skills/codebase-design/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/codebase-design) |
 | [code-coverage-with-gcov](./skills/code-coverage-with-gcov/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/code-coverage-with-gcov) |
@@ -351,7 +351,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [database-scout](./skills/database-scout/SKILL.md) | data-analysis | MIT | — | [page](https://skillzbench.com/skills/database-scout) |
 | [datalad](./skills/datalad/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/datalad) |
 | [data-loss-gate](./skills/data-loss-gate/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/data-loss-gate) |
-| [data-quality-checker](./skills/data-quality-checker/SKILL.md) | spreadsheets-data | MIT | — | [page](https://skillzbench.com/skills/data-quality-checker) |
+| [data-quality-checker](./skills/data-quality-checker/SKILL.md) | spreadsheets-data | MIT | -12.50pp | [page](https://skillzbench.com/skills/data-quality-checker) |
 | [data-research](./skills/data-research/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/data-research) |
 | [dataset-quality-audit](./skills/dataset-quality-audit/SKILL.md) | spreadsheets-data | MIT | — | [page](https://skillzbench.com/skills/dataset-quality-audit) |
 | [data-viz-renderer](./skills/data-viz-renderer/SKILL.md) | data-analysis | MIT | — | [page](https://skillzbench.com/skills/data-viz-renderer) |
@@ -725,7 +725,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [options-strategy-advisor](./skills/options-strategy-advisor/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/options-strategy-advisor) |
 | [oss-forensics-orchestration](./skills/oss-forensics-orchestration/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/oss-forensics-orchestration) |
 | [otel](./skills/otel/SKILL.md) | devops-cloud | MIT | — | [page](https://skillzbench.com/skills/otel) |
-| [package-development](./skills/package-development/SKILL.md) | devops-cloud | MIT | — | [page](https://skillzbench.com/skills/package-development) |
+| [package-development](./skills/package-development/SKILL.md) | devops-cloud | MIT | +12.50pp | [page](https://skillzbench.com/skills/package-development) |
 | [pair-programming](./skills/pair-programming/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/pair-programming) |
 | [paperclip-create-plugin](./skills/paperclip-create-plugin/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/paperclip-create-plugin) |
 | [paperclip-dev-workspace-run-verify-fix](./skills/paperclip-dev-workspace-run-verify-fix/SKILL.md) | devops-cloud | MIT | +0.00pp | [page](https://skillzbench.com/skills/paperclip-dev-workspace-run-verify-fix) |
