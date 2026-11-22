@@ -1,0 +1,7 @@
+# 13c-metabolic-flux
+
+[![SkillzBench](https://skillzbench.com/api/badge/13c-metabolic-flux)](https://skillzbench.com/skills/13c-metabolic-flux)
+
+Estimates intracellular metabolic fluxes from steady-state carbon-13 isotope-tracing measurements using validated atom maps, mfapy isotope simulation, constrained multistart fitting, and flux-profile diagnostics. Use for 13C-MFA, carbon tracing, mass isotopomer distributions (MDVs/MIDs), positional isotopomers, parallel tracer experiments, and determining whether labeling data constrain a pathway flux. Distinguishes measured-label inference from COBRA flux balance analysis and flags experiments requiring nonstationary MFA.
+
+Mirrored from [skillzbench.com/skills/13c-metabolic-flux](https://skillzbench.com/skills/13c-metabolic-flux) — Trust Score, benchmarks and install options live there.
