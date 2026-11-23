@@ -440,11 +440,10 @@ Follow the [agent operator protocol](../conventions/agent-operator-protocol.md) 
   analysis on a user-shared document is about to be delivered, file the
   brain page first, then deliver analysis + link in that same reply.
 - Filing routes through brain-taxonomist (active schema pack) +
-  `gbrain capture` instead of the donor's git-commit mechanics; the
-  donor's direct GitHub-API link check was dropped in favor of the
+  `gbrain capture` instead of the original skill's git-commit mechanics;
+  its direct GitHub-API link check was dropped in favor of the
   brain-link-discipline skill's link format + verify step.
-- Donor examples and origin story genericized per CLAUDE.md privacy
-  rules; added dedicated-pipeline exemptions and the per-user
+- Examples use placeholder names; added dedicated-pipeline exemptions and the per-user
   storage-policy off switch.
 
 ### v1.0.0 — gbrain v0.39.0.0
