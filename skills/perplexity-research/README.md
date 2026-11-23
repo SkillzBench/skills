@@ -2,6 +2,6 @@
 
 [![SkillzBench](https://skillzbench.com/api/badge/perplexity-research)](https://skillzbench.com/skills/perplexity-research)
 
-Brain-augmented web research. Sends brain context about a topic to Perplexity, which searches the web with citations and returns what is NEW vs what the brain already knows. Use for entity enrichment, current-state checks, deal monitoring, and freshness deltas. NOT for simple URL fetches (use web_fetch) or brain-only queries (use gbrain query).
+Brain-augmented web research. Asks Perplexity about a topic, with a short summary of what the brain already knows, and returns what is NEW with citations. Sends page content only after the user agrees. Use for current-state checks and freshness deltas on topics. NOT for simple URL fetches (use web_fetch) or brain-only queries (use gbrain query).
 
 Mirrored from [skillzbench.com/skills/perplexity-research](https://skillzbench.com/skills/perplexity-research) — Trust Score, benchmarks and install options live there.
