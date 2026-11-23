@@ -177,8 +177,7 @@ This skill guarantees:
 - In-page cross-references stay relative, preserving the links/backlinks
   graph.
 - Routing matches the canonical triggers in the frontmatter.
-- Privacy contract preserved: no real names, no fork-specific filesystem
-  path literals, no upstream-fork references.
+- Examples use placeholder names and paths.
 
 ## Output Format
 
