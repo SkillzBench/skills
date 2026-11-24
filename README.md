@@ -530,6 +530,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [golang-samber-hot](./skills/golang-samber-hot/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/golang-samber-hot) |
 | [golang-samber-oops](./skills/golang-samber-oops/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/golang-samber-oops) |
 | [golang-samber-slog](./skills/golang-samber-slog/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/golang-samber-slog) |
+| [golang-security](./skills/golang-security/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/golang-security) |
 | [golang-spf13-cobra](./skills/golang-spf13-cobra/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/golang-spf13-cobra) |
 | [golang-spf13-viper](./skills/golang-spf13-viper/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/golang-spf13-viper) |
 | [golang-stay-updated](./skills/golang-stay-updated/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/golang-stay-updated) |
@@ -805,6 +806,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [redteam-report-template](./skills/redteam-report-template/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/redteam-report-template) |
 | [reducing-entropy](./skills/reducing-entropy/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/reducing-entropy) |
 | [reference-compiler-cli](./skills/reference-compiler-cli/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/reference-compiler-cli) |
+| [reference-core](./skills/reference-core/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/reference-core) |
 | [reference-list-builder](./skills/reference-list-builder/SKILL.md) | career-resume | MIT | — | [page](https://skillzbench.com/skills/reference-list-builder) |
 | [reference-pack](./skills/reference-pack/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/reference-pack) |
 | [reference-signal-forms](./skills/reference-signal-forms/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/reference-signal-forms) |
