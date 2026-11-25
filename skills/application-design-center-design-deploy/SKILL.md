@@ -127,7 +127,7 @@ native ADC plan assessment API.
     command directly in your terminal:
 
     ```bash
-    gcloud design-center spaces generate-terraform-assessment-report <space_id> \
+    gcloud alpha design-center spaces generate-terraform-assessment-report <space_id> \
         --location=<location> \
         --project=<project_id> \
         --terraform-plan="<scratch_directory_path>/tfplan.json" \
