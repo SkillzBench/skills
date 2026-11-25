@@ -16,7 +16,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | Skill | Category | License | Lift | Directory |
 |---|---|---|---|---|
 | [12-factor-apps](./skills/12-factor-apps/SKILL.md) | devops-cloud | MIT | — | [page](https://skillzbench.com/skills/12-factor-apps) |
-| [13c-metabolic-flux](./skills/13c-metabolic-flux/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/13c-metabolic-flux) |
+| [13c-metabolic-flux](./skills/13c-metabolic-flux/SKILL.md) | research-analysis | MIT | -20.00pp | [page](https://skillzbench.com/skills/13c-metabolic-flux) |
 | [37signals-way](./skills/37signals-way/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/37signals-way) |
 | [a11y-audit](./skills/a11y-audit/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/a11y-audit) |
 | [ablation-planner](./skills/ablation-planner/SKILL.md) | research-analysis | MIT | +0.00pp | [page](https://skillzbench.com/skills/ablation-planner) |
@@ -97,7 +97,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [alphagenome](./skills/alphagenome/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/alphagenome) |
 | [alphaxiv](./skills/alphaxiv/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/alphaxiv) |
 | [amplitude-automation](./skills/amplitude-automation/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/amplitude-automation) |
-| [analytical-method-validation](./skills/analytical-method-validation/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/analytical-method-validation) |
+| [analytical-method-validation](./skills/analytical-method-validation/SKILL.md) | research-analysis | MIT | +0.00pp | [page](https://skillzbench.com/skills/analytical-method-validation) |
 | [analyzing-active-directory-acl-abuse](./skills/analyzing-active-directory-acl-abuse/SKILL.md) | security | Apache-2.0 | — | [page](https://skillzbench.com/skills/analyzing-active-directory-acl-abuse) |
 | [analyzing-apt-group-with-mitre-navigator](./skills/analyzing-apt-group-with-mitre-navigator/SKILL.md) | security | Apache-2.0 | — | [page](https://skillzbench.com/skills/analyzing-apt-group-with-mitre-navigator) |
 | [analyzing-campaign-attribution-evidence](./skills/analyzing-campaign-attribution-evidence/SKILL.md) | security | Apache-2.0 | — | [page](https://skillzbench.com/skills/analyzing-campaign-attribution-evidence) |
@@ -121,7 +121,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [application-design-center-design-deploy](./skills/application-design-center-design-deploy/SKILL.md) | devops-cloud | Apache-2.0 | — | [page](https://skillzbench.com/skills/application-design-center-design-deploy) |
 | [application-form-filler](./skills/application-form-filler/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/application-form-filler) |
 | [app-marketing-context](./skills/app-marketing-context/SKILL.md) | marketing-seo | MIT | — | [page](https://skillzbench.com/skills/app-marketing-context) |
-| [arbor](./skills/arbor/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/arbor) |
+| [arbor](./skills/arbor/SKILL.md) | research-analysis | MIT | +0.00pp | [page](https://skillzbench.com/skills/arbor) |
 | [arboreto](./skills/arboreto/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/arboreto) |
 | [archify](./skills/archify/SKILL.md) | images-graphics | MIT | — | [page](https://skillzbench.com/skills/archify) |
 | [architecture-optimization](./skills/architecture-optimization/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/architecture-optimization) |
@@ -415,7 +415,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [edge-candidate-agent](./skills/edge-candidate-agent/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/edge-candidate-agent) |
 | [edge-hint-extractor](./skills/edge-hint-extractor/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/edge-hint-extractor) |
 | [edgeone-clawscan](./skills/edgeone-clawscan/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/edgeone-clawscan) |
-| [edgeone-skill-scanner](./skills/edgeone-skill-scanner/SKILL.md) | security | MIT | — | [page](https://skillzbench.com/skills/edgeone-skill-scanner) |
+| [edgeone-skill-scanner](./skills/edgeone-skill-scanner/SKILL.md) | security | MIT | -25.00pp | [page](https://skillzbench.com/skills/edgeone-skill-scanner) |
 | [edge-pipeline-orchestrator](./skills/edge-pipeline-orchestrator/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/edge-pipeline-orchestrator) |
 | [edge-signal-aggregator](./skills/edge-signal-aggregator/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/edge-signal-aggregator) |
 | [edge-strategy-designer](./skills/edge-strategy-designer/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/edge-strategy-designer) |
@@ -426,7 +426,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [email-sequences](./skills/email-sequences/SKILL.md) | email-communication | MIT | — | [page](https://skillzbench.com/skills/email-sequences) |
 | [email-warmup](./skills/email-warmup/SKILL.md) | email-communication | MIT | — | [page](https://skillzbench.com/skills/email-warmup) |
 | [embodiment-description](./skills/embodiment-description/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/embodiment-description) |
-| [emil-design-eng](./skills/emil-design-eng/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/emil-design-eng) |
+| [emil-design-eng](./skills/emil-design-eng/SKILL.md) | web-design-frontend | MIT | +28.57pp | [page](https://skillzbench.com/skills/emil-design-eng) |
 | [enrich](./skills/enrich/SKILL.md) | sales-crm | MIT | — | [page](https://skillzbench.com/skills/enrich) |
 | [enterprise](./skills/enterprise/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/enterprise) |
 | [esm](./skills/esm/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/esm) |
@@ -599,7 +599,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [image-to-code](./skills/image-to-code/SKILL.md) | web-design-frontend | MIT | -12.50pp | [page](https://skillzbench.com/skills/image-to-code) |
 | [impeccable-ff9f21](./skills/impeccable-ff9f21/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/impeccable-ff9f21) |
 | [improve](./skills/improve/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/improve) |
-| [improve-animations](./skills/improve-animations/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/improve-animations) |
+| [improve-animations](./skills/improve-animations/SKILL.md) | web-design-frontend | MIT | +12.50pp | [page](https://skillzbench.com/skills/improve-animations) |
 | [improve-business](./skills/improve-business/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/improve-business) |
 | [improve-codebase-architecture](./skills/improve-codebase-architecture/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/improve-codebase-architecture) |
 | [improve-code-quality](./skills/improve-code-quality/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/improve-code-quality) |
@@ -626,7 +626,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [issue-creation](./skills/issue-creation/SKILL.md) | devops-cloud | MIT | — | [page](https://skillzbench.com/skills/issue-creation) |
 | [issue-root-resolution](./skills/issue-root-resolution/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/issue-root-resolution) |
 | [jobs-to-be-done](./skills/jobs-to-be-done/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/jobs-to-be-done) |
-| [json-canvas](./skills/json-canvas/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/json-canvas) |
+| [json-canvas](./skills/json-canvas/SKILL.md) | documents | MIT | +37.50pp | [page](https://skillzbench.com/skills/json-canvas) |
 | [judgment-day](./skills/judgment-day/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/judgment-day) |
 | [jurisdiction-format](./skills/jurisdiction-format/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/jurisdiction-format) |
 | [kanchi-dividend-review-monitor](./skills/kanchi-dividend-review-monitor/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/kanchi-dividend-review-monitor) |
@@ -734,7 +734,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [paperclip-page](./skills/paperclip-page/SKILL.md) | devops-cloud | MIT | — | [page](https://skillzbench.com/skills/paperclip-page) |
 | [paper-narrative](./skills/paper-narrative/SKILL.md) | research-analysis | Apache-2.0 | — | [page](https://skillzbench.com/skills/paper-narrative) |
 | [parallel-debugging](./skills/parallel-debugging/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/parallel-debugging) |
-| [parallel-feature-development](./skills/parallel-feature-development/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/parallel-feature-development) |
+| [parallel-feature-development](./skills/parallel-feature-development/SKILL.md) | agents-meta | MIT | +0.00pp | [page](https://skillzbench.com/skills/parallel-feature-development) |
 | [patch-notes](./skills/patch-notes/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/patch-notes) |
 | [paywalls](./skills/paywalls/SKILL.md) | marketing-seo | MIT | +0.00pp | [page](https://skillzbench.com/skills/paywalls) |
 | [pdf-analysis](./skills/pdf-analysis/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/pdf-analysis) |
@@ -889,7 +889,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [shadcn](./skills/shadcn/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/shadcn) |
 | [ship-learn-next](./skills/ship-learn-next/SKILL.md) | education-learning | MIT | — | [page](https://skillzbench.com/skills/ship-learn-next) |
 | [shipping-across-surfaces](./skills/shipping-across-surfaces/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/shipping-across-surfaces) |
-| [shipping-and-launch](./skills/shipping-and-launch/SKILL.md) | devops-cloud | MIT | +12.50pp | [page](https://skillzbench.com/skills/shipping-and-launch) |
+| [shipping-and-launch](./skills/shipping-and-launch/SKILL.md) | devops-cloud | MIT | +25.00pp | [page](https://skillzbench.com/skills/shipping-and-launch) |
 | [shipping-build-artifacts](./skills/shipping-build-artifacts/SKILL.md) | devops-cloud | MIT | — | [page](https://skillzbench.com/skills/shipping-build-artifacts) |
 | [signal-detector](./skills/signal-detector/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/signal-detector) |
 | [skill-development](./skills/skill-development/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/skill-development) |
@@ -906,16 +906,16 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [sn-da-non-spreadsheet-analysis](./skills/sn-da-non-spreadsheet-analysis/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/sn-da-non-spreadsheet-analysis) |
 | [sn-image-doctor](./skills/sn-image-doctor/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/sn-image-doctor) |
 | [sn-image-imitate](./skills/sn-image-imitate/SKILL.md) | images-graphics | MIT | — | [page](https://skillzbench.com/skills/sn-image-imitate) |
-| [sn-image-resume](./skills/sn-image-resume/SKILL.md) | images-graphics | MIT | — | [page](https://skillzbench.com/skills/sn-image-resume) |
+| [sn-image-resume](./skills/sn-image-resume/SKILL.md) | images-graphics | MIT | +0.00pp | [page](https://skillzbench.com/skills/sn-image-resume) |
 | [sn-md-to-html-report](./skills/sn-md-to-html-report/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/sn-md-to-html-report) |
 | [sn-motion-html](./skills/sn-motion-html/SKILL.md) | video-motion | MIT | — | [page](https://skillzbench.com/skills/sn-motion-html) |
-| [sn-ppt-creative](./skills/sn-ppt-creative/SKILL.md) | presentations-slides | MIT | — | [page](https://skillzbench.com/skills/sn-ppt-creative) |
+| [sn-ppt-creative](./skills/sn-ppt-creative/SKILL.md) | presentations-slides | MIT | +16.67pp | [page](https://skillzbench.com/skills/sn-ppt-creative) |
 | [sn-ppt-doctor](./skills/sn-ppt-doctor/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/sn-ppt-doctor) |
-| [sn-ppt-story](./skills/sn-ppt-story/SKILL.md) | presentations-slides | MIT | — | [page](https://skillzbench.com/skills/sn-ppt-story) |
+| [sn-ppt-story](./skills/sn-ppt-story/SKILL.md) | presentations-slides | MIT | +0.00pp | [page](https://skillzbench.com/skills/sn-ppt-story) |
 | [sn-ppt-tools](./skills/sn-ppt-tools/SKILL.md) | presentations-slides | MIT | — | [page](https://skillzbench.com/skills/sn-ppt-tools) |
 | [sn-prepare-citations](./skills/sn-prepare-citations/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/sn-prepare-citations) |
 | [sn-proactive-agent](./skills/sn-proactive-agent/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/sn-proactive-agent) |
-| [sn-research-report](./skills/sn-research-report/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/sn-research-report) |
+| [sn-research-report](./skills/sn-research-report/SKILL.md) | research-analysis | MIT | +12.50pp | [page](https://skillzbench.com/skills/sn-research-report) |
 | [sn-search-academic](./skills/sn-search-academic/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/sn-search-academic) |
 | [sn-search-code](./skills/sn-search-code/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/sn-search-code) |
 | [sn-search-finance](./skills/sn-search-finance/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/sn-search-finance) |
