@@ -377,7 +377,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [design-code-architecture](./skills/design-code-architecture/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/design-code-architecture) |
 | [design-everyday-things](./skills/design-everyday-things/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/design-everyday-things) |
 | [design-guide](./skills/design-guide/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/design-guide) |
-| [design-motion](./skills/design-motion/SKILL.md) | video-motion | MIT | -28.57pp | [page](https://skillzbench.com/skills/design-motion) |
+| [design-motion](./skills/design-motion/SKILL.md) | video-motion | MIT | -18.75pp | [page](https://skillzbench.com/skills/design-motion) |
 | [design-philosophy](./skills/design-philosophy/SKILL.md) | web-design-frontend | MIT | +25.00pp | [page](https://skillzbench.com/skills/design-philosophy) |
 | [design-system-starter](./skills/design-system-starter/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/design-system-starter) |
 | [design-taste-frontend-v1](./skills/design-taste-frontend-v1/SKILL.md) | web-design-frontend | MIT | +0.00pp | [page](https://skillzbench.com/skills/design-taste-frontend-v1) |
@@ -398,10 +398,10 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [doc-maintenance](./skills/doc-maintenance/SKILL.md) | documents | MIT | +0.00pp | [page](https://skillzbench.com/skills/doc-maintenance) |
 | [documentation-and-adrs](./skills/documentation-and-adrs/SKILL.md) | documents | MIT | +0.00pp | [page](https://skillzbench.com/skills/documentation-and-adrs) |
 | [documentation-lookup](./skills/documentation-lookup/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/documentation-lookup) |
-| [document-generate](./skills/document-generate/SKILL.md) | documents | MIT | +0.00pp | [page](https://skillzbench.com/skills/document-generate) |
+| [document-generate](./skills/document-generate/SKILL.md) | documents | MIT | — | [page](https://skillzbench.com/skills/document-generate) |
 | [domain-authentication](./skills/domain-authentication/SKILL.md) | email-communication | MIT | — | [page](https://skillzbench.com/skills/domain-authentication) |
 | [domain-driven-design](./skills/domain-driven-design/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/domain-driven-design) |
-| [domain-modeling](./skills/domain-modeling/SKILL.md) | coding-testing | MIT | +12.50pp | [page](https://skillzbench.com/skills/domain-modeling) |
+| [domain-modeling](./skills/domain-modeling/SKILL.md) | coding-testing | MIT | +0.00pp | [page](https://skillzbench.com/skills/domain-modeling) |
 | [doubt-driven-development](./skills/doubt-driven-development/SKILL.md) | coding-testing | MIT | -12.50pp | [page](https://skillzbench.com/skills/doubt-driven-development) |
 | [draft-in-voice](./skills/draft-in-voice/SKILL.md) | writing-content | MIT | — | [page](https://skillzbench.com/skills/draft-in-voice) |
 | [drawdown-circuit-breaker](./skills/drawdown-circuit-breaker/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/drawdown-circuit-breaker) |
@@ -558,7 +558,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [handoff](./skills/handoff/SKILL.md) | agents-meta | MIT | — | [page](https://skillzbench.com/skills/handoff) |
 | [hard-call](./skills/hard-call/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/hard-call) |
 | [header-cycle-breaker](./skills/header-cycle-breaker/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/header-cycle-breaker) |
-| [health](./skills/health/SKILL.md) | coding-testing | MIT | -16.67pp | [page](https://skillzbench.com/skills/health) |
+| [health](./skills/health/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/health) |
 | [heap-snapshot-analysis](./skills/heap-snapshot-analysis/SKILL.md) | coding-testing | MIT | -13.33pp | [page](https://skillzbench.com/skills/heap-snapshot-analysis) |
 | [high-end-visual-design](./skills/high-end-visual-design/SKILL.md) | web-design-frontend | MIT | -25.00pp | [page](https://skillzbench.com/skills/high-end-visual-design) |
 | [high-output-management](./skills/high-output-management/SKILL.md) | productivity-automation | MIT | — | [page](https://skillzbench.com/skills/high-output-management) |
