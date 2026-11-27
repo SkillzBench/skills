@@ -446,7 +446,6 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [expo-design-system](./skills/expo-design-system/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/expo-design-system) |
 | [expo-dom](./skills/expo-dom/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/expo-dom) |
 | [expo-project-structure](./skills/expo-project-structure/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/expo-project-structure) |
-| [exposure-coach](./skills/exposure-coach/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/exposure-coach) |
 | [fact-check-e5b2df](./skills/fact-check-e5b2df/SKILL.md) | research-analysis | MIT | — | [page](https://skillzbench.com/skills/fact-check-e5b2df) |
 | [fair-esm2](./skills/fair-esm2/SKILL.md) | research-analysis | Apache-2.0 | — | [page](https://skillzbench.com/skills/fair-esm2) |
 | [fal-ai-media](./skills/fal-ai-media/SKILL.md) | video-motion | MIT | — | [page](https://skillzbench.com/skills/fal-ai-media) |
@@ -694,7 +693,7 @@ one; AIQ-authored skills are MIT like this repo's packaging.
 | [monitor-experiment](./skills/monitor-experiment/SKILL.md) | coding-testing | MIT | — | [page](https://skillzbench.com/skills/monitor-experiment) |
 | [motion](./skills/motion/SKILL.md) | web-design-frontend | LicenseRef-AIQ-Labs-Seed | — | [page](https://skillzbench.com/skills/motion) |
 | [motion-director](./skills/motion-director/SKILL.md) | video-motion | MIT | — | [page](https://skillzbench.com/skills/motion-director) |
-| [motion-showreel](./skills/motion-showreel/SKILL.md) | video-motion | MIT | — | [page](https://skillzbench.com/skills/motion-showreel) |
+| [motion-showreel](./skills/motion-showreel/SKILL.md) | video-motion | MIT | +0.00pp | [page](https://skillzbench.com/skills/motion-showreel) |
 | [mrbeast-perspective](./skills/mrbeast-perspective/SKILL.md) | video-motion | MIT | +25.00pp | [page](https://skillzbench.com/skills/mrbeast-perspective) |
 | [mui](./skills/mui/SKILL.md) | web-design-frontend | MIT | — | [page](https://skillzbench.com/skills/mui) |
 | [multi-cloud-architecture](./skills/multi-cloud-architecture/SKILL.md) | devops-cloud | MIT | +0.00pp | [page](https://skillzbench.com/skills/multi-cloud-architecture) |
